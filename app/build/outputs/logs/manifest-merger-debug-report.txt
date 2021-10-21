@@ -1,0 +1,1071 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:1-199:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:1-199:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:1-199:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:1-199:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a88f546442f0b8c41d8791261117913a\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b455a4cda6892062058760a5879ae1a7\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7f3780710773b5fda99becf04f378b3\locationdelegation-1.0.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9964bf273afbf844963b0f9682d7f573\androidbrowserhelper-2.2.2\AndroidManifest.xml:17:1-36:12
+MERGED from [com.huawei.hms:ads-lite:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fe3aba5d7affe7c2f725dabfb9bbe4d\ads-lite-13.4.32.300\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8e2521cfa80b56fad53cce119080793\ads-consent-3.4.32.300\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:2:1-80:12
+MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:2:1-32:12
+MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9a0412f62599d9b186eae983b340ef9\jetified-iap-6.0.0.300\AndroidManifest.xml:2:1-17:12
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:3:1-21:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8bfa1ad005c46d443e0f63379e6dd372\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8dfe3c0693d99343fce78af38d02d6b\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c541f2f7de3a93a0a73490af378162ee\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f084e690b67f7f6be9409eb500c663fa\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d50d7749846a9f314ee253e2285449d1\play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\000d0d495eaac347eccb1d53f70aecb5\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\581f9adee02f123835ff15e57f6f1ad1\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\afb476aa83ecda7f68ca1ebbcbd94d8f\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\47648632e71ebb94c6f87d95a87f90ef\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ffa527d90291dfbeaeb550016739812\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\80a08e05d9d56b6f77a8495c29149436\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9ca3ab707547d9994b88f095210fa1a4\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\27ae2444cbe8b5ca5ad723c49c02560d\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2682773695b7cbd681eb0867b130ef57\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6cf42021095023f274b1d30663e9c0a3\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ab45ed93ec7143c791222b365c657a47\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c777709e58d1e0b1738f10ada36335c6\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1d62f81021c342a2bd51f21883a820b4\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8b3abd6de297240a7dc777c102b16948\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5009d93c63fe179fbc6edc35f4cdbcb0\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\582a58c02814a0cb8a27b65fa0888fcb\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b46228295e3941b84cb08b7c256b7e02\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b0d1ad4ae26209788af2031b7d46ceb3\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d100f7c670feae0f5d4af6a56b77096a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\130a2a27f609e72459b3cb92d5b0b281\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\34bd0cb842d7ab403a4eca3c1c1bfd48\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2daa71e49caf11f9543da96f1b295b50\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.huawei.hms:ads-banner:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6abe69978e3ea496239c5fa150a5a9a3\ads-banner-13.4.32.300\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-template:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fc3d3d1ffa3bdccc53424c3345cee8d\ads-template-13.4.32.300\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-native:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ed45b3e732be6e0d90f35bbd96017444\ads-native-13.4.32.300\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-interstitial:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3dd5af64a599dbfdeed65505d0d81cba\ads-interstitial-13.4.32.300\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-reward:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73f9acc5cc20dbe04124b6c22aec8bc1\ads-reward-13.4.32.300\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-lang:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d5ef9d8da9bf329dd8353a08ba03fb3\ads-lang-13.4.32.300\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:ads-splash:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eeb4ac5dc01ab5d929457fa443d6ce33\ads-splash-13.4.32.300\AndroidManifest.xml:3:1-18:12
+MERGED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:2:1-24:12
+MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:2:1-28:12
+MERGED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:2:1-25:12
+MERGED from [com.huawei.agconnect:agconnect-https:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4961022f1e1d5174a1032408bbda4994\jetified-agconnect-https-1.6.0.300\AndroidManifest.xml:3:1-13:12
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:2:1-33:12
+MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:2:1-22:12
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:2:1-21:12
+MERGED from [com.huawei.agconnect:datastore-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8cf8621b99337540d26d82481b3279f1\jetified-datastore-core-1.6.0.300\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0c7e8ff8aad27abcbfdacafb2f095ca8\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:3:1-67:12
+MERGED from [com.huawei.android.hms:security-base:1.1.5.302] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7ae35ced18dd7b556286b9b6bdc266f6\jetified-security-base-1.1.5.302\AndroidManifest.xml:2:1-9:12
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:2:1-48:12
+MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1acef269032392fb155e68de43c64ab4\jetified-stats-5.3.0.304\AndroidManifest.xml:2:1-16:12
+MERGED from [com.huawei.hms:network-grs:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\503644cdbd2824d8ffc6305f2f43ef54\jetified-network-grs-5.0.3.300\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:hatool:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5731dd80b14a0d14c00ae553c2a9a3dc\jetified-hatool-5.3.0.304\AndroidManifest.xml:2:1-9:12
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d1d94aee49b4dbe1104d3f2eea33d31d\security-ssl-1.1.5.306\AndroidManifest.xml:2:1-15:12
+MERGED from [com.huawei.android.hms:security-encrypt:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ac2f6362cb32f946a0301cf70da49c0\jetified-security-encrypt-1.1.5.306\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:2:1-29:12
+MERGED from [com.huawei.hms:log:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c4c4f3896af05624e788e0c60fb3d679\jetified-log-5.3.0.304\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:componentverifysdk:11.2.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f7cc6073980c1124d80b16beb550c48\jetified-componentverifysdk-11.2.1.300\AndroidManifest.xml:2:1-13:12
+MERGED from [com.huawei.hms:network-framework-compat:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7dabf004faf761e77a360a52484357f5\jetified-network-framework-compat-5.0.3.300\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:network-common:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3fce7476effbfb0bdf29e2e9aa4cae46\jetified-network-common-5.0.3.300\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:1-199:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:1-199:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:1-199:12
+	package
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:24:5-29
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:1-199:12
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:23:5-51
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:1-199:12
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:22:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:26:5-67
+MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:11:5-67
+MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:11:5-67
+MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:12:5-67
+MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:12:5-67
+MERGED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:10:5-67
+MERGED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:10:5-67
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:10:5-67
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:10:5-67
+MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:12:5-67
+MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:12:5-67
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:11:5-67
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:11:5-67
+MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1acef269032392fb155e68de43c64ab4\jetified-stats-5.3.0.304\AndroidManifest.xml:10:5-67
+MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1acef269032392fb155e68de43c64ab4\jetified-stats-5.3.0.304\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:27:5-79
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7f3780710773b5fda99becf04f378b3\locationdelegation-1.0.1\AndroidManifest.xml:11:5-79
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7f3780710773b5fda99becf04f378b3\locationdelegation-1.0.1\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:27:22-76
+application
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:29:5-198:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a88f546442f0b8c41d8791261117913a\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a88f546442f0b8c41d8791261117913a\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7f3780710773b5fda99becf04f378b3\locationdelegation-1.0.1\AndroidManifest.xml:13:5-15:19
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7f3780710773b5fda99becf04f378b3\locationdelegation-1.0.1\AndroidManifest.xml:13:5-15:19
+MERGED from [com.huawei.hms:ads-lite:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fe3aba5d7affe7c2f725dabfb9bbe4d\ads-lite-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-lite:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fe3aba5d7affe7c2f725dabfb9bbe4d\ads-lite-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8e2521cfa80b56fad53cce119080793\ads-consent-3.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8e2521cfa80b56fad53cce119080793\ads-consent-3.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:25:5-78:19
+MERGED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:25:5-78:19
+MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:15:5-30:19
+MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:15:5-30:19
+MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9a0412f62599d9b186eae983b340ef9\jetified-iap-6.0.0.300\AndroidManifest.xml:11:5-15:19
+MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9a0412f62599d9b186eae983b340ef9\jetified-iap-6.0.0.300\AndroidManifest.xml:11:5-15:19
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:11:5-19:19
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8bfa1ad005c46d443e0f63379e6dd372\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8bfa1ad005c46d443e0f63379e6dd372\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8dfe3c0693d99343fce78af38d02d6b\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8dfe3c0693d99343fce78af38d02d6b\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c541f2f7de3a93a0a73490af378162ee\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c541f2f7de3a93a0a73490af378162ee\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f084e690b67f7f6be9409eb500c663fa\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f084e690b67f7f6be9409eb500c663fa\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d50d7749846a9f314ee253e2285449d1\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d50d7749846a9f314ee253e2285449d1\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ab45ed93ec7143c791222b365c657a47\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ab45ed93ec7143c791222b365c657a47\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b46228295e3941b84cb08b7c256b7e02\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b46228295e3941b84cb08b7c256b7e02\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.huawei.hms:ads-banner:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6abe69978e3ea496239c5fa150a5a9a3\ads-banner-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-banner:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6abe69978e3ea496239c5fa150a5a9a3\ads-banner-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-template:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fc3d3d1ffa3bdccc53424c3345cee8d\ads-template-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-template:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fc3d3d1ffa3bdccc53424c3345cee8d\ads-template-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-native:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ed45b3e732be6e0d90f35bbd96017444\ads-native-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-native:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ed45b3e732be6e0d90f35bbd96017444\ads-native-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-interstitial:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3dd5af64a599dbfdeed65505d0d81cba\ads-interstitial-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-interstitial:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3dd5af64a599dbfdeed65505d0d81cba\ads-interstitial-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-reward:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73f9acc5cc20dbe04124b6c22aec8bc1\ads-reward-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-reward:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73f9acc5cc20dbe04124b6c22aec8bc1\ads-reward-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-lang:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d5ef9d8da9bf329dd8353a08ba03fb3\ads-lang-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-lang:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d5ef9d8da9bf329dd8353a08ba03fb3\ads-lang-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-splash:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eeb4ac5dc01ab5d929457fa443d6ce33\ads-splash-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:ads-splash:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eeb4ac5dc01ab5d929457fa443d6ce33\ads-splash-13.4.32.300\AndroidManifest.xml:12:5-16:19
+MERGED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:9:5-22:19
+MERGED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:9:5-22:19
+MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:14:5-26:19
+MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:14:5-26:19
+MERGED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:12:5-23:19
+MERGED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:12:5-23:19
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:18:5-31:19
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:18:5-31:19
+MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:14:5-20:19
+MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:14:5-20:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:10:5-19:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:10:5-19:19
+MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:16:5-65:19
+MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:16:5-65:19
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:20:5-46:19
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:20:5-46:19
+MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1acef269032392fb155e68de43c64ab4\jetified-stats-5.3.0.304\AndroidManifest.xml:14:5-20
+MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1acef269032392fb155e68de43c64ab4\jetified-stats-5.3.0.304\AndroidManifest.xml:14:5-20
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d1d94aee49b4dbe1104d3f2eea33d31d\security-ssl-1.1.5.306\AndroidManifest.xml:9:5-13:19
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d1d94aee49b4dbe1104d3f2eea33d31d\security-ssl-1.1.5.306\AndroidManifest.xml:9:5-13:19
+MERGED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:9:5-27:19
+MERGED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:9:5-27:19
+MERGED from [com.huawei.hms:log:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c4c4f3896af05624e788e0c60fb3d679\jetified-log-5.3.0.304\AndroidManifest.xml:9:5-20
+MERGED from [com.huawei.hms:log:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c4c4f3896af05624e788e0c60fb3d679\jetified-log-5.3.0.304\AndroidManifest.xml:9:5-20
+MERGED from [com.huawei.hms:componentverifysdk:11.2.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f7cc6073980c1124d80b16beb550c48\jetified-componentverifysdk-11.2.1.300\AndroidManifest.xml:10:5-11:19
+MERGED from [com.huawei.hms:componentverifysdk:11.2.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f7cc6073980c1124d80b16beb550c48\jetified-componentverifysdk-11.2.1.300\AndroidManifest.xml:10:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ab45ed93ec7143c791222b365c657a47\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:37:9-35
+	android:label
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:33:9-40
+	android:manageSpaceActivity
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:35:9-105
+	android:icon
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:32:9-43
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:38:9-68
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:30:9-35
+meta-data#com.huawei.hms.client.appid
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:40:9-43:21
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:41:13-55
+meta-data#com.huawei.hms.client.cpid
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:44:9-47:21
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:46:13-52
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:45:13-54
+meta-data#asset_statements
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:48:9-50:58
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:50:13-55
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:49:13-44
+meta-data#web_manifest_url
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:53:13-55:58
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:55:17-55
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:54:17-48
+meta-data#twa_generator
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:58:9-60:52
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:59:13-41
+activity#com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:63:13-67:24
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:63:23-104
+meta-data#android.support.customtabs.trusted.MANAGE_SPACE_URL
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:64:13-66:53
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:66:17-50
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:65:17-83
+activity#com.ychen9.pwa.LauncherActivity
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:70:9-143:20
+	android:label
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:72:13-49
+	android:alwaysRetainTaskState
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:70:19-50
+meta-data#android.support.customtabs.trusted.ADDITIONAL_TRUSTED_ORIGINS
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:73:13-75:72
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:74:17-93
+meta-data#android.support.customtabs.trusted.DEFAULT_URL
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:77:13-78:53
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:78:17-50
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:77:24-85
+meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:80:13-82:58
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:82:17-55
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:81:17-83
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:84:13-86:61
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:86:17-58
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:85:17-87
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:88:13-90:65
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:90:17-62
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:89:17-92
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:92:13-94:68
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:94:17-65
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:93:17-84
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:96:13-98:72
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:98:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:97:17-89
+meta-data#android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:100:13-101:54
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:101:17-52
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:100:24-95
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:103:13-104:60
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:104:17-58
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:103:24-104
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:106:13-107:71
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:107:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:106:24-105
+meta-data#android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:109:13-110:60
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:110:17-58
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:109:24-97
+meta-data#android.app.shortcuts
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:112:13-97
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:112:61-94
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:112:24-60
+meta-data#android.support.customtabs.trusted.FALLBACK_STRATEGY
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:114:13-115:56
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:115:17-53
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:114:24-91
+meta-data#android.support.customtabs.trusted.METADATA_SHARE_TARGET
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:117:13-119:57
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:119:17-55
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:118:17-88
+meta-data#android.support.customtabs.trusted.SCREEN_ORIENTATION
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:121:13-122:54
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:122:17-52
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:121:24-92
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:124:13-128:29
+action#android.intent.action.SEND
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:125:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:125:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:126:17-76
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:126:27-73
+data
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:127:17-55
+	android:host
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:154:23-67
+	android:scheme
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:154:68-93
+	android:mimeType
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:127:23-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:130:13-133:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:131:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:131:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:132:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:132:27-74
+activity#com.ychen9.pwa.ConsumptionActivity
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:145:9-156:20
+	android:theme
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:147:13-47
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:146:13-62
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:bvutestiap.dre.agconnect.link+data:scheme:testlink
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:149:13-155:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:150:17-68
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:150:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:152:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:152:27-75
+activity#com.google.androidbrowserhelper.trusted.FocusActivity
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:158:9-90
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:158:19-87
+activity#com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:160:9-161:62
+	android:configChanges
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:161:13-59
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:160:19-97
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:163:9-171:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:166:13-47
+	android:authorities
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:165:13-60
+	android:exported
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:167:13-37
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:164:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:168:13-170:53
+	android:resource
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:170:17-50
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:169:17-67
+service#com.ychen9.pwa.DelegationService
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:173:9-184:19
+	android:enabled
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:175:13-55
+	android:exported
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:176:13-56
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:174:13-46
+intent-filter#action:name:android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:180:13-183:29
+action#android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:181:17-105
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:181:25-103
+service#com.ychen9.pwa.MyPushService
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:185:9-192:19
+	android:exported
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:187:13-37
+	tools:ignore
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:188:13-42
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:186:13-42
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:189:13-191:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:190:17-81
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:190:25-78
+activity#com.google.androidbrowserhelper.locationdelegation.PermissionRequestActivity
+ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:195:13-196:89
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7f3780710773b5fda99becf04f378b3\locationdelegation-1.0.1\AndroidManifest.xml:14:9-113
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7f3780710773b5fda99becf04f378b3\locationdelegation-1.0.1\AndroidManifest.xml:14:9-113
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml:195:23-123
+uses-sdk
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a88f546442f0b8c41d8791261117913a\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a88f546442f0b8c41d8791261117913a\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b455a4cda6892062058760a5879ae1a7\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b455a4cda6892062058760a5879ae1a7\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7f3780710773b5fda99becf04f378b3\locationdelegation-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7f3780710773b5fda99becf04f378b3\locationdelegation-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9964bf273afbf844963b0f9682d7f573\androidbrowserhelper-2.2.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9964bf273afbf844963b0f9682d7f573\androidbrowserhelper-2.2.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.huawei.hms:ads-lite:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fe3aba5d7affe7c2f725dabfb9bbe4d\ads-lite-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-lite:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fe3aba5d7affe7c2f725dabfb9bbe4d\ads-lite-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8e2521cfa80b56fad53cce119080793\ads-consent-3.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8e2521cfa80b56fad53cce119080793\ads-consent-3.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9a0412f62599d9b186eae983b340ef9\jetified-iap-6.0.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9a0412f62599d9b186eae983b340ef9\jetified-iap-6.0.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8bfa1ad005c46d443e0f63379e6dd372\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8bfa1ad005c46d443e0f63379e6dd372\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8dfe3c0693d99343fce78af38d02d6b\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8dfe3c0693d99343fce78af38d02d6b\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c541f2f7de3a93a0a73490af378162ee\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c541f2f7de3a93a0a73490af378162ee\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f084e690b67f7f6be9409eb500c663fa\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f084e690b67f7f6be9409eb500c663fa\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d50d7749846a9f314ee253e2285449d1\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d50d7749846a9f314ee253e2285449d1\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\000d0d495eaac347eccb1d53f70aecb5\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\000d0d495eaac347eccb1d53f70aecb5\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\581f9adee02f123835ff15e57f6f1ad1\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\581f9adee02f123835ff15e57f6f1ad1\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\afb476aa83ecda7f68ca1ebbcbd94d8f\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\afb476aa83ecda7f68ca1ebbcbd94d8f\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\47648632e71ebb94c6f87d95a87f90ef\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\47648632e71ebb94c6f87d95a87f90ef\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ffa527d90291dfbeaeb550016739812\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ffa527d90291dfbeaeb550016739812\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\80a08e05d9d56b6f77a8495c29149436\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\80a08e05d9d56b6f77a8495c29149436\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9ca3ab707547d9994b88f095210fa1a4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9ca3ab707547d9994b88f095210fa1a4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\27ae2444cbe8b5ca5ad723c49c02560d\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\27ae2444cbe8b5ca5ad723c49c02560d\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2682773695b7cbd681eb0867b130ef57\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2682773695b7cbd681eb0867b130ef57\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6cf42021095023f274b1d30663e9c0a3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6cf42021095023f274b1d30663e9c0a3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ab45ed93ec7143c791222b365c657a47\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ab45ed93ec7143c791222b365c657a47\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c777709e58d1e0b1738f10ada36335c6\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c777709e58d1e0b1738f10ada36335c6\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1d62f81021c342a2bd51f21883a820b4\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1d62f81021c342a2bd51f21883a820b4\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8b3abd6de297240a7dc777c102b16948\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8b3abd6de297240a7dc777c102b16948\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5009d93c63fe179fbc6edc35f4cdbcb0\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5009d93c63fe179fbc6edc35f4cdbcb0\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\582a58c02814a0cb8a27b65fa0888fcb\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\582a58c02814a0cb8a27b65fa0888fcb\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b46228295e3941b84cb08b7c256b7e02\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b46228295e3941b84cb08b7c256b7e02\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b0d1ad4ae26209788af2031b7d46ceb3\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b0d1ad4ae26209788af2031b7d46ceb3\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d100f7c670feae0f5d4af6a56b77096a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d100f7c670feae0f5d4af6a56b77096a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\130a2a27f609e72459b3cb92d5b0b281\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\130a2a27f609e72459b3cb92d5b0b281\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\34bd0cb842d7ab403a4eca3c1c1bfd48\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\34bd0cb842d7ab403a4eca3c1c1bfd48\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2daa71e49caf11f9543da96f1b295b50\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2daa71e49caf11f9543da96f1b295b50\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.huawei.hms:ads-banner:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6abe69978e3ea496239c5fa150a5a9a3\ads-banner-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-banner:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6abe69978e3ea496239c5fa150a5a9a3\ads-banner-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-template:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fc3d3d1ffa3bdccc53424c3345cee8d\ads-template-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-template:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fc3d3d1ffa3bdccc53424c3345cee8d\ads-template-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-native:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ed45b3e732be6e0d90f35bbd96017444\ads-native-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-native:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ed45b3e732be6e0d90f35bbd96017444\ads-native-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-interstitial:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3dd5af64a599dbfdeed65505d0d81cba\ads-interstitial-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-interstitial:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3dd5af64a599dbfdeed65505d0d81cba\ads-interstitial-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-reward:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73f9acc5cc20dbe04124b6c22aec8bc1\ads-reward-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-reward:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73f9acc5cc20dbe04124b6c22aec8bc1\ads-reward-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-lang:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d5ef9d8da9bf329dd8353a08ba03fb3\ads-lang-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-lang:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d5ef9d8da9bf329dd8353a08ba03fb3\ads-lang-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-splash:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eeb4ac5dc01ab5d929457fa443d6ce33\ads-splash-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-splash:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eeb4ac5dc01ab5d929457fa443d6ce33\ads-splash-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:7:5-10:70
+MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:7:5-10:70
+MERGED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.agconnect:agconnect-https:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4961022f1e1d5174a1032408bbda4994\jetified-agconnect-https-1.6.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.agconnect:agconnect-https:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4961022f1e1d5174a1032408bbda4994\jetified-agconnect-https-1.6.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:6:5-9:61
+MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:6:5-9:61
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:datastore-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8cf8621b99337540d26d82481b3279f1\jetified-datastore-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:datastore-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8cf8621b99337540d26d82481b3279f1\jetified-datastore-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0c7e8ff8aad27abcbfdacafb2f095ca8\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0c7e8ff8aad27abcbfdacafb2f095ca8\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.android.hms:security-base:1.1.5.302] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7ae35ced18dd7b556286b9b6bdc266f6\jetified-security-base-1.1.5.302\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-base:1.1.5.302] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7ae35ced18dd7b556286b9b6bdc266f6\jetified-security-base-1.1.5.302\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1acef269032392fb155e68de43c64ab4\jetified-stats-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1acef269032392fb155e68de43c64ab4\jetified-stats-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:network-grs:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\503644cdbd2824d8ffc6305f2f43ef54\jetified-network-grs-5.0.3.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-grs:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\503644cdbd2824d8ffc6305f2f43ef54\jetified-network-grs-5.0.3.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:hatool:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5731dd80b14a0d14c00ae553c2a9a3dc\jetified-hatool-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:hatool:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5731dd80b14a0d14c00ae553c2a9a3dc\jetified-hatool-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d1d94aee49b4dbe1104d3f2eea33d31d\security-ssl-1.1.5.306\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d1d94aee49b4dbe1104d3f2eea33d31d\security-ssl-1.1.5.306\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-encrypt:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ac2f6362cb32f946a0301cf70da49c0\jetified-security-encrypt-1.1.5.306\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.android.hms:security-encrypt:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ac2f6362cb32f946a0301cf70da49c0\jetified-security-encrypt-1.1.5.306\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:log:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c4c4f3896af05624e788e0c60fb3d679\jetified-log-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:log:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c4c4f3896af05624e788e0c60fb3d679\jetified-log-5.3.0.304\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:componentverifysdk:11.2.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f7cc6073980c1124d80b16beb550c48\jetified-componentverifysdk-11.2.1.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.hms:componentverifysdk:11.2.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f7cc6073980c1124d80b16beb550c48\jetified-componentverifysdk-11.2.1.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.hms:network-framework-compat:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7dabf004faf761e77a360a52484357f5\jetified-network-framework-compat-5.0.3.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-framework-compat:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7dabf004faf761e77a360a52484357f5\jetified-network-framework-compat-5.0.3.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3fce7476effbfb0bdf29e2e9aa4cae46\jetified-network-common-5.0.3.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3fce7476effbfb0bdf29e2e9aa4cae46\jetified-network-common-5.0.3.300\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:10:9-67
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\app\src\main\AndroidManifest.xml
+queries
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9964bf273afbf844963b0f9682d7f573\androidbrowserhelper-2.2.2\AndroidManifest.xml:26:5-34:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9964bf273afbf844963b0f9682d7f573\androidbrowserhelper-2.2.2\AndroidManifest.xml:27:9-33:18
+meta-data#com.huawei.hms.client.service.name:ads-lite
+ADDED from [com.huawei.hms:ads-lite:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fe3aba5d7affe7c2f725dabfb9bbe4d\ads-lite-13.4.32.300\AndroidManifest.xml:13:9-15:52
+	android:value
+		ADDED from [com.huawei.hms:ads-lite:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fe3aba5d7affe7c2f725dabfb9bbe4d\ads-lite-13.4.32.300\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from [com.huawei.hms:ads-lite:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1fe3aba5d7affe7c2f725dabfb9bbe4d\ads-lite-13.4.32.300\AndroidManifest.xml:14:13-71
+meta-data#com.huawei.hms.client.service.name:ads-consent
+ADDED from [com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8e2521cfa80b56fad53cce119080793\ads-consent-3.4.32.300\AndroidManifest.xml:13:9-15:54
+	android:value
+		ADDED from [com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8e2521cfa80b56fad53cce119080793\ads-consent-3.4.32.300\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8e2521cfa80b56fad53cce119080793\ads-consent-3.4.32.300\AndroidManifest.xml:14:13-74
+permission#${applicationId}.permission.PROCESS_PUSH_MSG
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:9:5-11:55
+	android:protectionLevel
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:11:9-52
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:10:9-68
+permission#com.ychen9.pwa.permission.PROCESS_PUSH_MSG
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:9:5-11:55
+	android:protectionLevel
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:11:9-52
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:10:9-68
+permission#${applicationId}.permission.PUSH_PROVIDER
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:14:5-16:55
+	android:protectionLevel
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:15:9-65
+permission#com.ychen9.pwa.permission.PUSH_PROVIDER
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:14:5-16:55
+	android:protectionLevel
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:15:9-65
+permission#${applicationId}.permission.PUSH_WRITE_PROVIDER
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:17:5-19:55
+	android:protectionLevel
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:18:9-71
+permission#com.ychen9.pwa.permission.PUSH_WRITE_PROVIDER
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:17:5-19:55
+	android:protectionLevel
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:18:9-71
+uses-permission#${applicationId}.permission.PROCESS_PUSH_MSG
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:21:5-84
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:21:22-81
+uses-permission#com.ychen9.pwa.permission.PROCESS_PUSH_MSG
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:21:5-84
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:21:22-81
+uses-permission#${applicationId}.permission.PUSH_PROVIDER
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:22:22-78
+uses-permission#com.ychen9.pwa.permission.PUSH_PROVIDER
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:23:22-74
+receiver#com.huawei.hms.support.api.push.PushMsgReceiver
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:26:9-37:20
+	android:permission
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:29:13-78
+	android:directBootAware
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:28:13-43
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:27:13-75
+intent-filter#action:name:com.huawei.intent.action.PUSH+action:name:com.huawei.intent.action.PUSH_DELAY_NOTIFY
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:30:13-36:29
+action#com.huawei.intent.action.PUSH_DELAY_NOTIFY
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:33:25-82
+action#com.huawei.intent.action.PUSH
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:35:17-72
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:35:25-69
+receiver#com.huawei.hms.support.api.push.PushReceiver
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:38:9-49:20
+	android:permission
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:41:13-78
+	android:directBootAware
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:39:13-72
+intent-filter#action:name:com.huawei.android.push.intent.RECEIVE+action:name:com.huawei.android.push.intent.REGISTRATION
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:42:13-48:29
+action#com.huawei.android.push.intent.REGISTRATION
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:45:17-86
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:45:25-83
+action#com.huawei.android.push.intent.RECEIVE
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:47:17-81
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:47:25-78
+service#com.huawei.hms.support.api.push.service.HmsMsgService
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:52:9-62:19
+	android:process
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:57:13-43
+	android:enabled
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:56:13-36
+	android:directBootAware
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:54:13-43
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:53:13-81
+intent-filter#action:name:com.huawei.push.msg.NOTIFY_MSG+action:name:com.huawei.push.msg.PASSBY_MSG
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:58:13-61:29
+action#com.huawei.push.msg.NOTIFY_MSG
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:59:17-73
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:59:25-70
+action#com.huawei.push.msg.PASSBY_MSG
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:60:17-73
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:60:25-70
+provider#com.huawei.hms.support.api.push.PushProvider
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:64:9-70:89
+	android:readPermission
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:69:13-79
+	android:authorities
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:66:13-72
+	android:exported
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:67:13-36
+	android:permission
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:68:13-75
+	android:writePermission
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:70:13-86
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:65:13-72
+meta-data#com.huawei.hms.client.service.name:push
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:72:9-74:46
+	android:value
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:74:13-43
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:73:13-67
+meta-data#com.huawei.hms.min_api_level:push:push
+ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:75:9-77:33
+	android:value
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:77:13-30
+	android:name
+		ADDED from [com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\43c3e7c5e9b083d6bccb20927d3d1299\push-5.1.1.301\AndroidManifest.xml:76:13-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.agconnect:agconnect-https:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4961022f1e1d5174a1032408bbda4994\jetified-agconnect-https-1.6.0.300\AndroidManifest.xml:11:5-79
+MERGED from [com.huawei.agconnect:agconnect-https:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4961022f1e1d5174a1032408bbda4994\jetified-agconnect-https-1.6.0.300\AndroidManifest.xml:11:5-79
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:13:5-79
+MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:13:5-79
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1acef269032392fb155e68de43c64ab4\jetified-stats-5.3.0.304\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1acef269032392fb155e68de43c64ab4\jetified-stats-5.3.0.304\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:12:22-76
+uses-permission#com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA
+ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:13:5-106
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:16:5-106
+MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:16:5-106
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:18:5-106
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:18:5-106
+	android:name
+		ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:13:22-103
+meta-data#com.huawei.hms.client.service.name:hianalytics
+ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:16:9-18:53
+	android:value
+		ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:18:13-50
+	android:name
+		ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:17:13-74
+meta-data#com.huawei.hms.min_api_level:hianalytics:hianalytics
+ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:19:9-21:33
+	android:value
+		ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:21:13-30
+	android:name
+		ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:20:13-80
+receiver#com.huawei.hms.analytics.receiver.HiAnalyticsSvcEvtReceiver
+ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:23:9-29:20
+	android:exported
+		ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:24:13-87
+intent-filter#action:name:com.huawei.hms.analytics.pps.event
+ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:26:13-28:29
+action#com.huawei.hms.analytics.pps.event
+ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\44c45267dcae1238309778b434e4a9be\hianalytics-5.3.1.300\AndroidManifest.xml:27:25-74
+meta-data#com.huawei.hms.client.service.name:iap
+ADDED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9a0412f62599d9b186eae983b340ef9\jetified-iap-6.0.0.300\AndroidManifest.xml:12:9-14:45
+	android:value
+		ADDED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9a0412f62599d9b186eae983b340ef9\jetified-iap-6.0.0.300\AndroidManifest.xml:14:13-42
+	android:name
+		ADDED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9a0412f62599d9b186eae983b340ef9\jetified-iap-6.0.0.300\AndroidManifest.xml:13:13-66
+service#com.huawei.agconnect.core.ServiceDiscovery
+ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:12:9-18:19
+MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:15:9-21:19
+MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:15:9-21:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:16:9-18:40
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:13:13-70
+meta-data#com.huawei.agconnect.applinking.AppLinkingRegistrar
+ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:15:13-17:78
+	android:value
+		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:17:17-75
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e0e194d02defe02211847e32f1f8f2e6\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:16:17-83
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8dfe3c0693d99343fce78af38d02d6b\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8dfe3c0693d99343fce78af38d02d6b\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8dfe3c0693d99343fce78af38d02d6b\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8dfe3c0693d99343fce78af38d02d6b\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d50d7749846a9f314ee253e2285449d1\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d50d7749846a9f314ee253e2285449d1\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d50d7749846a9f314ee253e2285449d1\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+meta-data#com.huawei.hms.client.service.name:ads-banner
+ADDED from [com.huawei.hms:ads-banner:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6abe69978e3ea496239c5fa150a5a9a3\ads-banner-13.4.32.300\AndroidManifest.xml:13:9-15:54
+	android:value
+		ADDED from [com.huawei.hms:ads-banner:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6abe69978e3ea496239c5fa150a5a9a3\ads-banner-13.4.32.300\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.huawei.hms:ads-banner:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6abe69978e3ea496239c5fa150a5a9a3\ads-banner-13.4.32.300\AndroidManifest.xml:14:13-73
+meta-data#com.huawei.hms.client.service.name:ads-template
+ADDED from [com.huawei.hms:ads-template:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fc3d3d1ffa3bdccc53424c3345cee8d\ads-template-13.4.32.300\AndroidManifest.xml:13:9-15:56
+	android:value
+		ADDED from [com.huawei.hms:ads-template:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fc3d3d1ffa3bdccc53424c3345cee8d\ads-template-13.4.32.300\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [com.huawei.hms:ads-template:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fc3d3d1ffa3bdccc53424c3345cee8d\ads-template-13.4.32.300\AndroidManifest.xml:14:13-75
+meta-data#com.huawei.hms.client.service.name:ads-native
+ADDED from [com.huawei.hms:ads-native:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ed45b3e732be6e0d90f35bbd96017444\ads-native-13.4.32.300\AndroidManifest.xml:13:9-15:54
+	android:value
+		ADDED from [com.huawei.hms:ads-native:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ed45b3e732be6e0d90f35bbd96017444\ads-native-13.4.32.300\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.huawei.hms:ads-native:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ed45b3e732be6e0d90f35bbd96017444\ads-native-13.4.32.300\AndroidManifest.xml:14:13-73
+meta-data#com.huawei.hms.client.service.name:ads-interstitial
+ADDED from [com.huawei.hms:ads-interstitial:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3dd5af64a599dbfdeed65505d0d81cba\ads-interstitial-13.4.32.300\AndroidManifest.xml:13:9-15:60
+	android:value
+		ADDED from [com.huawei.hms:ads-interstitial:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3dd5af64a599dbfdeed65505d0d81cba\ads-interstitial-13.4.32.300\AndroidManifest.xml:15:13-57
+	android:name
+		ADDED from [com.huawei.hms:ads-interstitial:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3dd5af64a599dbfdeed65505d0d81cba\ads-interstitial-13.4.32.300\AndroidManifest.xml:14:13-79
+meta-data#com.huawei.hms.client.service.name:ads-reward
+ADDED from [com.huawei.hms:ads-reward:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73f9acc5cc20dbe04124b6c22aec8bc1\ads-reward-13.4.32.300\AndroidManifest.xml:13:9-15:54
+	android:value
+		ADDED from [com.huawei.hms:ads-reward:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73f9acc5cc20dbe04124b6c22aec8bc1\ads-reward-13.4.32.300\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.huawei.hms:ads-reward:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\73f9acc5cc20dbe04124b6c22aec8bc1\ads-reward-13.4.32.300\AndroidManifest.xml:14:13-73
+meta-data#com.huawei.hms.client.service.name:ads-lang
+ADDED from [com.huawei.hms:ads-lang:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d5ef9d8da9bf329dd8353a08ba03fb3\ads-lang-13.4.32.300\AndroidManifest.xml:13:9-15:52
+	android:value
+		ADDED from [com.huawei.hms:ads-lang:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d5ef9d8da9bf329dd8353a08ba03fb3\ads-lang-13.4.32.300\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from [com.huawei.hms:ads-lang:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d5ef9d8da9bf329dd8353a08ba03fb3\ads-lang-13.4.32.300\AndroidManifest.xml:14:13-71
+meta-data#com.huawei.hms.client.service.name:ads-splash
+ADDED from [com.huawei.hms:ads-splash:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eeb4ac5dc01ab5d929457fa443d6ce33\ads-splash-13.4.32.300\AndroidManifest.xml:13:9-15:54
+	android:value
+		ADDED from [com.huawei.hms:ads-splash:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eeb4ac5dc01ab5d929457fa443d6ce33\ads-splash-13.4.32.300\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from [com.huawei.hms:ads-splash:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eeb4ac5dc01ab5d929457fa443d6ce33\ads-splash-13.4.32.300\AndroidManifest.xml:14:13-73
+provider#com.huawei.hms.aaid.InitProvider
+ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:12:13-68
+	android:exported
+		ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:11:13-60
+meta-data#com.huawei.hms.client.service.name:opendevice
+ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:16:9-18:52
+	android:value
+		ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:17:13-73
+meta-data#com.huawei.hms.min_api_level:opendevice:push
+ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:19:9-21:33
+	android:value
+		ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:21:13-30
+	android:name
+		ADDED from [com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb3414097faff3e3752d167655f94a32\opendevice-5.1.1.301\AndroidManifest.xml:20:13-72
+meta-data#com.huawei.agconnect.credential.CredentialServiceRegistrar:100
+ADDED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:18:13-20:78
+	android:value
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:20:17-75
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:19:17-94
+uses-library#org.apache.http.legacy
+ADDED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:23:9-25:40
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d1d94aee49b4dbe1104d3f2eea33d31d\security-ssl-1.1.5.306\AndroidManifest.xml:10:9-12:40
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d1d94aee49b4dbe1104d3f2eea33d31d\security-ssl-1.1.5.306\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f43fb608f0dd3704e2d16c1cc731792\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:24:13-50
+meta-data#com.huawei.hms.client.service.name:base
+ADDED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:15:9-17:46
+	android:value
+		ADDED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:16:13-67
+meta-data#com.huawei.hms.min_api_level:base:hmscore
+ADDED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:20:9-22:33
+	android:value
+		ADDED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:22:13-30
+	android:name
+		ADDED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\494bb131b918557032d4e466cc1af556\jetified-base-5.3.0.304\AndroidManifest.xml:21:13-69
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:14:5-83
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:15:5-83
+MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:14:22-80
+meta-data#availableLoaded
+ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:22:13-43
+provider#com.huawei.hms.update.provider.UpdateProvider
+ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:25:9-30:20
+	android:grantUriPermissions
+		ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:27:13-71
+	android:exported
+		ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\aa2641f2e9fe8be58dd4e9bf3ee0bd33\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:26:13-73
+provider#com.huawei.hms.device.provider.CheckHmsProvider
+ADDED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:15:9-19:51
+	android:grantUriPermissions
+		ADDED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:19:13-48
+	android:authorities
+		ADDED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:17:13-85
+	android:exported
+		ADDED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c426974bde351490672a4227719c3c02\jetified-device-5.3.0.304\AndroidManifest.xml:16:13-75
+provider#com.huawei.agconnect.core.provider.AGConnectInitializeProvider
+ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:11:9-14:40
+	android:authorities
+		ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:13:13-73
+	android:exported
+		ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\12e44de705330f1664bea98151406c51\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:12:13-90
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:14:22-73
+meta-data#com.huawei.hms.client.service.name:ads-base
+ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:17:9-19:52
+	android:value
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:18:13-71
+activity#com.huawei.openalliance.ad.activity.PPSLauncherActivity
+ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:21:9-39:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:24:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:22:13-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:${applicationId}+data:scheme:hwpps
+ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:25:13-34:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.ychen9.pwa+data:scheme:hwpps
+ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:25:13-34:29
+meta-data#hwc-theme
+ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:36:13-38:88
+	android:value
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:38:17-85
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:37:17-41
+activity#com.huawei.openalliance.ad.activity.PPSBridgeActivity
+ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:40:9-47:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:41:13-81
+activity#com.huawei.openalliance.ad.activity.PPSNotificationActivity
+ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:48:9-55:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:50:13-37
+	android:theme
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:51:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:49:13-87
+activity#com.huawei.openalliance.ad.activity.AgProtocolActivity
+ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:56:9-64:20
+	android:exported
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:59:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:58:13-59
+	android:theme
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:60:13-72
+	android:name
+		ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\78057078a51d83c3126e9325270b2c98\ads-base-13.4.32.300\AndroidManifest.xml:57:13-82
+activity#com.huawei.updatesdk.service.otaupdate.AppUpdateActivity
+ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:24:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:23:13-59
+	android:theme
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:22:13-84
+activity#com.huawei.updatesdk.support.pm.PackageInstallerActivity
+ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:30:9-38:20
+	android:exported
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:33:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:32:13-74
+	android:theme
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:31:13-84
+provider#com.huawei.updatesdk.fileprovider.UpdateSdkFileProvider
+ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:40:9-45:20
+	android:grantUriPermissions
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:44:13-47
+	android:authorities
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:42:13-74
+	android:exported
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8fbfe7c876f808beffc5fa37c9a29e33\jetified-update-3.0.2.300\AndroidManifest.xml:41:13-83
+activity#com.huawei.hms.activity.BridgeActivity
+ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:10:9-21:20
+	android:screenOrientation
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:16:13-47
+	android:excludeFromRecents
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:13:13-46
+	android:hardwareAccelerated
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:15:13-47
+	android:exported
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:14:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:12:13-131
+	android:theme
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:17:13-52
+	android:name
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:11:13-66
+activity#com.huawei.hms.activity.EnableServiceActivity
+ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:22:9-26:20
+	android:exported
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:25:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:24:13-106
+	android:name
+		ADDED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4355f18d7751fe2ecdb3dd86298abc95\jetified-ui-5.3.0.304\AndroidManifest.xml:23:13-73

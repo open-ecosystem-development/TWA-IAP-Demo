@@ -1,0 +1,383 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:1-175:12
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:1-175:12
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:1-175:12
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:1-175:12
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/024eb7f73b84be5d9aa6e0829b6668e6/locationdelegation-1.0.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/3b5384b56dfe1b6c6ab698231ead7ba3/androidbrowserhelper-2.2.0/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.browser:browser:1.3.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/963df8e848637d5dcc4b558ad75c146e/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/9a6fa3c553e02b3a07c8a8565588eb54/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/36dcb862f7bd88dade6a96bc3b9a35c6/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e601daed4ba62929db8b322b2974c8f8/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dade9b59ee5981570bbd8ef7443af33a/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/27ffe024b65d36df19e13f551b6b146c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/96d0ad977091c6484e2db42674538c87/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/9a82a1a22af6402c2242c9ee80e8919f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:1-175:12
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:1-175:12
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:1-175:12
+	package
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:23:5-28
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:1-175:12
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:1-175:12
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:22:11-69
+application
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:29:5-174:19
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/024eb7f73b84be5d9aa6e0829b6668e6/locationdelegation-1.0.0/AndroidManifest.xml:13:5-15:19
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/024eb7f73b84be5d9aa6e0829b6668e6/locationdelegation-1.0.0/AndroidManifest.xml:13:5-15:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e601daed4ba62929db8b322b2974c8f8/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e601daed4ba62929db8b322b2974c8f8/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e601daed4ba62929db8b322b2974c8f8/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:37:9-35
+	android:label
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:33:9-40
+	android:manageSpaceActivity
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:35:9-105
+	android:icon
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:32:9-43
+	android:allowBackup
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:38:9-68
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:30:9-35
+meta-data#asset_statements
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:40:9-42:58
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:41:13-44
+meta-data#web_manifest_url
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:45:13-47:58
+	android:value
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:47:17-55
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:46:17-48
+meta-data#twa_generator
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:50:9-52:52
+	android:value
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:51:13-41
+activity#com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:55:13-59:24
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:55:23-104
+meta-data#android.support.customtabs.trusted.MANAGE_SPACE_URL
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:56:13-58:53
+	android:value
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:58:17-50
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:57:17-83
+activity#com.sadchonks.LauncherActivity
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:62:9-140:20
+	android:label
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:64:13-49
+	android:alwaysRetainTaskState
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:62:19-50
+meta-data#android.support.customtabs.trusted.DEFAULT_URL
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:65:13-66:53
+	android:value
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:66:17-50
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:65:24-85
+meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:68:13-70:58
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:70:17-55
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:69:17-83
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:72:13-74:61
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:74:17-58
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:73:17-87
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:76:13-78:65
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:78:17-62
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:77:17-92
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:80:13-82:68
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:82:17-65
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:81:17-84
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:84:13-86:72
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:86:17-69
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:85:17-89
+meta-data#android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:88:13-89:54
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:89:17-52
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:88:24-95
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:91:13-92:60
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:92:17-58
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:91:24-104
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:94:13-95:71
+	android:value
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:94:24-105
+meta-data#android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:97:13-98:60
+	android:value
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:98:17-58
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:97:24-97
+meta-data#android.app.shortcuts
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:100:13-97
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:100:61-94
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:100:24-60
+meta-data#android.support.customtabs.trusted.FALLBACK_STRATEGY
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:102:13-103:56
+	android:value
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:103:17-53
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:102:24-91
+meta-data#android.support.customtabs.trusted.METADATA_SHARE_TARGET
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:106:17-108:61
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:108:21-59
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:107:21-92
+meta-data#android.support.customtabs.trusted.SCREEN_ORIENTATION
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:113:13-114:54
+	android:value
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:114:17-52
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:113:24-92
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:117:17-125:33
+action#android.intent.action.SEND
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:119:25-77
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:119:33-74
+category#android.intent.category.DEFAULT
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:121:21-80
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:121:31-77
+data
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:123:25-63
+	android:host
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:138:21-52
+	android:scheme
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:137:23-45
+	android:mimeType
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:123:31-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:128:13-131:29
+action#android.intent.action.MAIN
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:129:17-69
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:129:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:130:17-77
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:130:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/hostName+data:scheme:https
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:133:13-139:29
+	android:autoVerify
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:133:28-53
+action#android.intent.action.VIEW
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:134:17-68
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:134:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:136:17-77
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:136:27-75
+activity#com.google.androidbrowserhelper.trusted.FocusActivity
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:142:9-90
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:142:19-87
+activity#com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:144:9-145:62
+	android:configChanges
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:145:13-59
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:144:19-97
+provider#androidx.core.content.FileProvider
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:147:9-155:20
+	android:grantUriPermissions
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:150:13-47
+	android:authorities
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:149:13-60
+	android:exported
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:151:13-37
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:148:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:152:13-154:53
+	android:resource
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:154:17-50
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:153:17-67
+service#com.sadchonks.DelegationService
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:157:9-168:19
+	android:enabled
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:159:13-55
+	android:exported
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:160:13-56
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:158:13-46
+intent-filter#action:name:android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE+category:name:android.intent.category.DEFAULT
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:164:13-167:29
+action#android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:165:17-105
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:165:25-103
+activity#com.google.androidbrowserhelper.locationdelegation.PermissionRequestActivity
+ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:171:13-172:89
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/024eb7f73b84be5d9aa6e0829b6668e6/locationdelegation-1.0.0/AndroidManifest.xml:14:9-113
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/024eb7f73b84be5d9aa6e0829b6668e6/locationdelegation-1.0.0/AndroidManifest.xml:14:9-113
+	android:name
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml:171:23-123
+uses-sdk
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/024eb7f73b84be5d9aa6e0829b6668e6/locationdelegation-1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/024eb7f73b84be5d9aa6e0829b6668e6/locationdelegation-1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/3b5384b56dfe1b6c6ab698231ead7ba3/androidbrowserhelper-2.2.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/3b5384b56dfe1b6c6ab698231ead7ba3/androidbrowserhelper-2.2.0/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.3.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/963df8e848637d5dcc4b558ad75c146e/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/963df8e848637d5dcc4b558ad75c146e/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/9a6fa3c553e02b3a07c8a8565588eb54/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/9a6fa3c553e02b3a07c8a8565588eb54/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/36dcb862f7bd88dade6a96bc3b9a35c6/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/36dcb862f7bd88dade6a96bc3b9a35c6/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e601daed4ba62929db8b322b2974c8f8/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e601daed4ba62929db8b322b2974c8f8/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dade9b59ee5981570bbd8ef7443af33a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dade9b59ee5981570bbd8ef7443af33a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/27ffe024b65d36df19e13f551b6b146c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/27ffe024b65d36df19e13f551b6b146c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/96d0ad977091c6484e2db42674538c87/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/96d0ad977091c6484e2db42674538c87/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/9a82a1a22af6402c2242c9ee80e8919f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/9a82a1a22af6402c2242c9ee80e8919f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+		ADDED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+		INJECTED from /tmp/pwabuilder-cloudapk--31301-3hWXBMbtqfOy/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.google.androidbrowserhelper:locationdelegation:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/024eb7f73b84be5d9aa6e0829b6668e6/locationdelegation-1.0.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.androidbrowserhelper:locationdelegation:1.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/024eb7f73b84be5d9aa6e0829b6668e6/locationdelegation-1.0.0/AndroidManifest.xml:11:22-76
+queries
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/3b5384b56dfe1b6c6ab698231ead7ba3/androidbrowserhelper-2.2.0/AndroidManifest.xml:26:5-34:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/3b5384b56dfe1b6c6ab698231ead7ba3/androidbrowserhelper-2.2.0/AndroidManifest.xml:27:9-33:18
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

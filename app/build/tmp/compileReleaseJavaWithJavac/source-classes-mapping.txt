@@ -1,0 +1,8 @@
+com/sadchonks/LauncherActivity.java
+ com.sadchonks.LauncherActivity
+com/sadchonks/DelegationService.java
+ com.sadchonks.DelegationService
+com/sadchonks/Application.java
+ com.sadchonks.Application
+com/sadchonks/BuildConfig.java
+ com.sadchonks.BuildConfig
