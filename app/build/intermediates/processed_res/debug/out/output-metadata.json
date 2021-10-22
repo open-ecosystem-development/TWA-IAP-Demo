@@ -4,7 +4,7 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.ychen9.pwa",
+  "applicationId": "com.pictroom.android",
   "variantName": "processDebugResources",
   "elements": [
     {

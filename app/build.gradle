@@ -18,13 +18,16 @@ import groovy.xml.MarkupBuilder
 
 plugins {
     id 'com.android.application'
+    id 'com.huawei.agconnect'
     
 }
 
 def twaManifest = [
-    applicationId: 'com.ychen9.pwa',
-    hostName: 'w3schools.com', // The domain being opened in the TWA.
-    launchUrl: '/code/tryit.asp?filename=GVC9JDSKIOUD', // The start path for the TWA. Must be relative to the domain.
+    applicationId: 'com.pictroom.android',
+//    hostName: 'w3schools.com', // The domain being opened in the TWA.
+//    launchUrl: '/code/tryit.asp?filename=GVC9JDSKIOUD', // The start path for the TWA. Must be relative to the domain.
+    hostName: 'pictroom.com', // The domain being opened in the TWA.
+    launchUrl: '/', // The start path for the TWA. Must be relative to the domain.
     name: 'Sad Chonks', // The application name.
     launcherName: 'Chonks', // The name shown on the Android Launcher.
     themeColor: '#3F51B5', // The color used for the status bar.
@@ -53,7 +56,7 @@ def twaManifest = [
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.ychen9.pwa"
+        applicationId "com.pictroom.android"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
@@ -149,11 +152,18 @@ android {
         resValue "string", "orientation", twaManifest.orientation
     }
     signingConfigs {
+//        config {
+//            storeFile file('./debug.keystore')
+//            keyAlias 'androiddebugkey'
+//            keyPassword 'android'
+//            storePassword 'android'
+//        }
+
         config {
-            storeFile file('./debug.keystore')
-            keyAlias 'androiddebugkey'
-            keyPassword 'android'
-            storePassword 'android'
+            storeFile file('./pictroom.jks')
+            keyAlias 'Pictroom'
+            keyPassword 'SpvkZwvnStcQtkWWnGwJzURzEBzzjCpKTegNFXuW'
+            storePassword 'wEsjEgYqqKJzvcwSSfnYdwjNVrktPaUfrReyJggX'
         }
     }
     buildTypes {

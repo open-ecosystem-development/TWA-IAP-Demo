@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v27\\values-v27.xml",
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v27\\values-v27.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrator\\Downloads\\Futurewei\\pwabuilder-cloudapk--31301-3hWXBMbtqfOy\\app\\src\\main\\res\\values-v27\\styles.xml",
+                    "source": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\src\\main\\res\\values-v27\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",

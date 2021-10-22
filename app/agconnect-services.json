@@ -16,22 +16,22 @@
 		"SG_back":"connect-dra.hispace.hicloud.com"
 	},
 	"client":{
-		"cp_id":"890001000000000755",
-		"product_id":"736430079244631725",
-		"client_id":"449458549538423872",
-		"client_secret":"07659C8B3499EE84C9F112596BDE1BF045812C1ACCD1426FEAE4A1C5DA7A6BAD",
-		"project_id":"736430079244631725",
-		"app_id":"102882631",
-		"api_key":"CgB6e3x9WKdGb0Couze1sBEKAaZHrgxGUKvx+PtiZrYL8hz1joamlY/ElWRRx3OxeUZ7EMwvLnsIaDJl/AFToaKJ",
-		"package_name":"com.ychen9.pwa"
+		"cp_id":"890001000004106131",
+		"product_id":"737518067793642008",
+		"client_id":"743132452242862720",
+		"client_secret":"C32122ACE30834B2E0B1B7A7F856275088F135D7A301CD9AFCF57A5446366149",
+		"project_id":"737518067793642008",
+		"app_id":"104861171",
+		"api_key":"CwEAAAAA3z6DedHHDElFoivFJv5+kU1IP0xF/INUHUBW+aLYf3MJVaCl2ABwmCdE82ArLVCfqJuaJM/Ilu6U92uYkcbTlvW9uIo=",
+		"package_name":"com.pictroom.android"
 	},
 	"oauth_client":{
-		"client_id":"102882631",
+		"client_id":"104861171",
 		"client_type":1
 	},
 	"app_info":{
-		"app_id":"102882631",
-		"package_name":"com.ychen9.pwa"
+		"app_id":"104861171",
+		"package_name":"com.pictroom.android"
 	},
 	"service":{
 		"analytics":{
@@ -57,31 +57,17 @@
 	"configuration_version":"3.0",
 	"appInfos":[
 		{
-			"package_name":"com.ychen9.pwa3",
+			"package_name":"com.pictroom.android",
 			"client":{
-				"app_id":"104523791"
+				"app_id":"104861171"
 			},
 			"app_info":{
-				"package_name":"com.ychen9.pwa3",
-				"app_id":"104523791"
+				"package_name":"com.pictroom.android",
+				"app_id":"104861171"
 			},
 			"oauth_client":{
 				"client_type":1,
-				"client_id":"104523791"
-			}
-		},
-		{
-			"package_name":"com.ychen9.pwa",
-			"client":{
-				"app_id":"102882631"
-			},
-			"app_info":{
-				"package_name":"com.ychen9.pwa",
-				"app_id":"102882631"
-			},
-			"oauth_client":{
-				"client_type":1,
-				"client_id":"102882631"
+				"client_id":"104861171"
 			}
 		}
 	]

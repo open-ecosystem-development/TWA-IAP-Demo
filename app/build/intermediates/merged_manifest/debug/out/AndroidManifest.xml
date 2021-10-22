@@ -22,7 +22,7 @@
      the abbreviated format.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ychen9.pwa"
+    package="com.pictroom.android"
     android:versionCode="1"
     android:versionName="1.0.0.0" >
 
@@ -44,18 +44,18 @@
     </queries>
 
     <permission
-        android:name="com.ychen9.pwa.permission.PROCESS_PUSH_MSG"
+        android:name="com.pictroom.android.permission.PROCESS_PUSH_MSG"
         android:protectionLevel="signatureOrSystem" /> <!-- PUSH_PROVIDER and PUSH_WRITE_PROVIDER are both provider registered permissions for the notification switch. -->
     <!-- The SDK's notification bar switch, EMUI 9.x becomes write to the local sp, sharing the file through the provider to the push-rom, which reads the sp file to get the status of the notification bar switch. -->
     <permission
-        android:name="com.ychen9.pwa.permission.PUSH_PROVIDER"
+        android:name="com.pictroom.android.permission.PUSH_PROVIDER"
         android:protectionLevel="signatureOrSystem" />
     <permission
-        android:name="com.ychen9.pwa.permission.PUSH_WRITE_PROVIDER"
+        android:name="com.pictroom.android.permission.PUSH_WRITE_PROVIDER"
         android:protectionLevel="signatureOrSystem" />
 
-    <uses-permission android:name="com.ychen9.pwa.permission.PROCESS_PUSH_MSG" />
-    <uses-permission android:name="com.ychen9.pwa.permission.PUSH_PROVIDER" />
+    <uses-permission android:name="com.pictroom.android.permission.PROCESS_PUSH_MSG" />
+    <uses-permission android:name="com.pictroom.android.permission.PUSH_PROVIDER" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA" /> <!-- 如果是安卓8.0，应用编译配置的targetSdkVersion>=26，请务必添加以下权限 -->
@@ -63,7 +63,7 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
-        android:name="com.ychen9.pwa.Application"
+        android:name="com.pictroom.android.Application"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -75,11 +75,11 @@
         android:theme="@android:style/Theme.Translucent.NoTitleBar" >
         <meta-data
             android:name="com.huawei.hms.client.appid"
-            android:value="appid=102882631" >
+            android:value="appid=104861171" >
         </meta-data>
         <meta-data
             android:name="com.huawei.hms.client.cpid"
-            android:value="cpid=890001000000000755" >
+            android:value="cpid=890001000004106131" >
         </meta-data>
         <meta-data
             android:name="asset_statements"
@@ -97,7 +97,7 @@
                 android:value="@string/launchUrl" />
         </activity>
         <activity
-            android:name="com.ychen9.pwa.LauncherActivity"
+            android:name="com.pictroom.android.LauncherActivity"
             android:alwaysRetainTaskState="true"
             android:label="@string/launcherName" >
             <meta-data
@@ -198,7 +198,7 @@
         </provider>
 
         <service
-            android:name="com.ychen9.pwa.DelegationService"
+            android:name="com.pictroom.android.DelegationService"
             android:enabled="@bool/enableNotification"
             android:exported="@bool/enableNotification" >
             <intent-filter>
@@ -208,7 +208,7 @@
             </intent-filter>
         </service>
         <service
-            android:name="com.ychen9.pwa.MyPushService"
+            android:name="com.pictroom.android.MyPushService"
             android:exported="false" >
             <intent-filter>
                 <action android:name="com.huawei.push.action.MESSAGING_EVENT" />
@@ -227,7 +227,7 @@
         <receiver
             android:name="com.huawei.hms.support.api.push.PushMsgReceiver"
             android:directBootAware="true"
-            android:permission="com.ychen9.pwa.permission.PROCESS_PUSH_MSG" >
+            android:permission="com.pictroom.android.permission.PROCESS_PUSH_MSG" >
             <intent-filter>
 
                 <!-- Mandatory, be used to receive notification bar message click event. -->
@@ -239,7 +239,7 @@
         <receiver
             android:name="com.huawei.hms.support.api.push.PushReceiver"
             android:directBootAware="true"
-            android:permission="com.ychen9.pwa.permission.PROCESS_PUSH_MSG" >
+            android:permission="com.pictroom.android.permission.PROCESS_PUSH_MSG" >
             <intent-filter>
 
                 <!-- Mandatory, be used to receive tokens. -->
@@ -262,11 +262,11 @@
 
         <provider
             android:name="com.huawei.hms.support.api.push.PushProvider"
-            android:authorities="com.ychen9.pwa.huawei.push.provider"
+            android:authorities="com.pictroom.android.huawei.push.provider"
             android:exported="true"
-            android:permission="com.ychen9.pwa.permission.PUSH_PROVIDER"
-            android:readPermission="com.ychen9.pwa.permission.PUSH_PROVIDER"
-            android:writePermission="com.ychen9.pwa.permission.PUSH_WRITE_PROVIDER" />
+            android:permission="com.pictroom.android.permission.PUSH_PROVIDER"
+            android:readPermission="com.pictroom.android.permission.PUSH_PROVIDER"
+            android:writePermission="com.pictroom.android.permission.PUSH_WRITE_PROVIDER" />
 
         <meta-data
             android:name="com.huawei.hms.client.service.name:push"
@@ -336,7 +336,7 @@
 
         <provider
             android:name="com.huawei.hms.aaid.InitProvider"
-            android:authorities="com.ychen9.pwa.aaidinitprovider"
+            android:authorities="com.pictroom.android.aaidinitprovider"
             android:exported="false"
             android:initOrder="500" />
 
@@ -362,18 +362,18 @@
 
         <provider
             android:name="com.huawei.hms.update.provider.UpdateProvider"
-            android:authorities="com.ychen9.pwa.hms.update.provider"
+            android:authorities="com.pictroom.android.hms.update.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
         </provider>
         <provider
             android:name="com.huawei.hms.device.provider.CheckHmsProvider"
-            android:authorities="com.ychen9.pwa.hms.device.validate.spoofprovider"
+            android:authorities="com.pictroom.android.hms.device.validate.spoofprovider"
             android:exported="false"
             android:grantUriPermissions="false" />
         <provider
             android:name="com.huawei.agconnect.core.provider.AGConnectInitializeProvider"
-            android:authorities="com.ychen9.pwa.AGCInitializeProvider"
+            android:authorities="com.pictroom.android.AGCInitializeProvider"
             android:exported="false" />
 
         <meta-data
@@ -391,7 +391,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="com.ychen9.pwa"
+                    android:host="com.pictroom.android"
                     android:scheme="hwpps" />
             </intent-filter>
 
@@ -445,7 +445,7 @@
 
         <provider
             android:name="com.huawei.updatesdk.fileprovider.UpdateSdkFileProvider"
-            android:authorities="com.ychen9.pwa.updateSdk.fileProvider"
+            android:authorities="com.pictroom.android.updateSdk.fileProvider"
             android:exported="false"
             android:grantUriPermissions="true" >
         </provider>

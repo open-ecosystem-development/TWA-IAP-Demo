@@ -1,6 +1,6 @@
 <shortcuts xmlns:android='http://schemas.android.com/apk/res/android'>
     <shortcut android:shortcutId='shortcut0' android:enabled='true' android:icon='@drawable/shortcut_0' android:shortcutShortLabel='@string/shortcut_short_name_0' android:shortcutLongLabel='@string/shortcut_name_0'>
-        <intent android:action='android.intent.action.MAIN' android:targetPackage='com.ychen9.pwa' android:targetClass='com.ychen9.pwa.LauncherActivity' android:data='https://sadchonks.com/?shortcut' />
+        <intent android:action='android.intent.action.MAIN' android:targetPackage='com.pictroom.android' android:targetClass='com.pictroom.android.LauncherActivity' android:data='https://sadchonks.com/?shortcut' />
         <categories android:name='android.intent.category.LAUNCHER' />
     </shortcut>
 </shortcuts>
