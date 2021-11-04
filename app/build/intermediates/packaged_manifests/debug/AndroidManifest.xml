@@ -23,13 +23,13 @@
 
     <permission
         android:name="com.pictroom.android.permission.PROCESS_PUSH_MSG"
-        android:protectionLevel="signatureOrSystem" />
+        android:protectionLevel="signature" />
     <permission
         android:name="com.pictroom.android.permission.PUSH_PROVIDER"
-        android:protectionLevel="signatureOrSystem" />
+        android:protectionLevel="signature" />
     <permission
         android:name="com.pictroom.android.permission.PUSH_WRITE_PROVIDER"
-        android:protectionLevel="signatureOrSystem" />
+        android:protectionLevel="signature" />
 
     <uses-permission android:name="com.pictroom.android.permission.PROCESS_PUSH_MSG" />
     <uses-permission android:name="com.pictroom.android.permission.PUSH_PROVIDER" />
@@ -231,7 +231,7 @@
 
         <meta-data
             android:name="com.huawei.hms.client.service.name:push"
-            android:value="push:5.1.1.300" />
+            android:value="push:5.3.0.303" />
         <meta-data
             android:name="com.huawei.hms.min_api_level:push:push"
             android:value="1" />
@@ -303,7 +303,7 @@
 
         <meta-data
             android:name="com.huawei.hms.client.service.name:opendevice"
-            android:value="opendevice:5.1.1.300" />
+            android:value="opendevice:5.1.1.306" />
         <meta-data
             android:name="com.huawei.hms.min_api_level:opendevice:push"
             android:value="1" />

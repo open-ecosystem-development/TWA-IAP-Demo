@@ -58,34 +58,34 @@
 44    </queries>
 45
 46    <permission
-46-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:9:5-11:55
+46-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:9:5-11:47
 47        android:name="com.pictroom.android.permission.PROCESS_PUSH_MSG"
-47-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:10:9-68
-48        android:protectionLevel="signatureOrSystem" /> <!-- PUSH_PROVIDER and PUSH_WRITE_PROVIDER are both provider registered permissions for the notification switch. -->
-48-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:11:9-52
+47-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:10:9-68
+48        android:protectionLevel="signature" /> <!-- PUSH_PROVIDER and PUSH_WRITE_PROVIDER are both provider registered permissions for the notification switch. -->
+48-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:11:9-44
 49    <!-- The SDK's notification bar switch, EMUI 9.x becomes write to the local sp, sharing the file through the provider to the push-rom, which reads the sp file to get the status of the notification bar switch. -->
 50    <permission
-50-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:14:5-16:55
+50-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:14:5-16:47
 51        android:name="com.pictroom.android.permission.PUSH_PROVIDER"
-51-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:15:9-65
-52        android:protectionLevel="signatureOrSystem" />
-52-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:16:9-52
+51-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:15:9-65
+52        android:protectionLevel="signature" />
+52-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:16:9-44
 53    <permission
-53-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:17:5-19:55
+53-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:17:5-19:47
 54        android:name="com.pictroom.android.permission.PUSH_WRITE_PROVIDER"
-54-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:18:9-71
-55        android:protectionLevel="signatureOrSystem" />
-55-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:19:9-52
+54-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:18:9-71
+55        android:protectionLevel="signature" />
+55-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:19:9-44
 56
 57    <uses-permission android:name="com.pictroom.android.permission.PROCESS_PUSH_MSG" />
-57-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:21:5-84
-57-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:21:22-81
+57-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:21:5-84
+57-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:21:22-81
 58    <uses-permission android:name="com.pictroom.android.permission.PUSH_PROVIDER" />
-58-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:22:5-81
-58-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:22:22-78
+58-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:22:5-81
+58-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:22:22-78
 59    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-59-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:23:5-77
-59-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:23:22-74
+59-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:23:5-77
+59-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:23:22-74
 60    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 60-->[com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a997154b0ccc398d57948783318aa11\jetified-hianalytics-5.3.1.300\AndroidManifest.xml:12:5-79
 60-->[com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a997154b0ccc398d57948783318aa11\jetified-hianalytics-5.3.1.300\AndroidManifest.xml:12:22-76
@@ -401,97 +401,97 @@
 225-->[com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a536ca487b05aaaf4ba80abf3d8bbcae\jetified-ads-consent-3.4.32.300\AndroidManifest.xml:15:13-51
 226
 227        <receiver
-227-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:26:9-37:20
+227-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:26:9-37:20
 228            android:name="com.huawei.hms.support.api.push.PushMsgReceiver"
-228-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:27:13-75
+228-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:27:13-75
 229            android:directBootAware="true"
-229-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:28:13-43
+229-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:28:13-43
 230            android:permission="com.pictroom.android.permission.PROCESS_PUSH_MSG" >
-230-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:29:13-78
+230-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:29:13-78
 231            <intent-filter>
-231-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:30:13-36:29
+231-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:30:13-36:29
 232
 233                <!-- Mandatory, be used to receive notification bar message click event. -->
 234                <action android:name="com.huawei.intent.action.PUSH_DELAY_NOTIFY" />
-234-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:33:17-85
-234-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:33:25-82
+234-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:33:17-85
+234-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:33:25-82
 235                <!-- Optional, compatible with old huawei phones. -->
 236                <action android:name="com.huawei.intent.action.PUSH" />
-236-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:35:17-72
-236-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:35:25-69
+236-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:35:17-72
+236-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:35:25-69
 237            </intent-filter>
 238        </receiver>
 239        <receiver
-239-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:38:9-49:20
+239-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:38:9-49:20
 240            android:name="com.huawei.hms.support.api.push.PushReceiver"
-240-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:39:13-72
+240-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:39:13-72
 241            android:directBootAware="true"
-241-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:40:13-43
+241-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:40:13-43
 242            android:permission="com.pictroom.android.permission.PROCESS_PUSH_MSG" >
-242-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:41:13-78
+242-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:41:13-78
 243            <intent-filter>
-243-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:42:13-48:29
+243-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:42:13-48:29
 244
 245                <!-- Mandatory, be used to receive tokens. -->
 246                <action android:name="com.huawei.android.push.intent.REGISTRATION" />
-246-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:45:17-86
-246-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:45:25-83
+246-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:45:17-86
+246-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:45:25-83
 247                <!-- Mandatory, be used to receive messages. -->
 248                <action android:name="com.huawei.android.push.intent.RECEIVE" />
-248-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:47:17-81
-248-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:47:25-78
+248-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:47:17-81
+248-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:47:25-78
 249            </intent-filter>
 250        </receiver> <!-- Definition of receiving service for notification bar and pass-through message of non-huawei mobile phone. -->
 251        <service
-251-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:52:9-62:19
+251-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:52:9-62:19
 252            android:name="com.huawei.hms.support.api.push.service.HmsMsgService"
-252-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:53:13-81
+252-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:53:13-81
 253            android:directBootAware="true"
-253-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:54:13-43
+253-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:54:13-43
 254            android:enabled="true"
-254-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:55:13-35
+254-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:55:13-35
 255            android:exported="true"
-255-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:56:13-36
+255-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:56:13-36
 256            android:process=":pushservice" >
-256-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:57:13-43
+256-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:57:13-43
 257            <intent-filter>
-257-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:58:13-61:29
+257-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:58:13-61:29
 258                <action android:name="com.huawei.push.msg.NOTIFY_MSG" />
-258-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:59:17-73
-258-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:59:25-70
+258-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:59:17-73
+258-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:59:25-70
 259                <action android:name="com.huawei.push.msg.PASSBY_MSG" />
-259-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:60:17-73
-259-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:60:25-70
+259-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:60:17-73
+259-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:60:25-70
 260            </intent-filter>
 261        </service>
 262
 263        <provider
-263-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:64:9-70:89
+263-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:64:9-70:89
 264            android:name="com.huawei.hms.support.api.push.PushProvider"
-264-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:65:13-72
+264-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:65:13-72
 265            android:authorities="com.pictroom.android.huawei.push.provider"
-265-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:66:13-72
+265-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:66:13-72
 266            android:exported="true"
-266-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:67:13-36
+266-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:67:13-36
 267            android:permission="com.pictroom.android.permission.PUSH_PROVIDER"
-267-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:68:13-75
+267-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:68:13-75
 268            android:readPermission="com.pictroom.android.permission.PUSH_PROVIDER"
-268-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:69:13-79
+268-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:69:13-79
 269            android:writePermission="com.pictroom.android.permission.PUSH_WRITE_PROVIDER" />
-269-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:70:13-86
+269-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:70:13-86
 270
 271        <meta-data
-271-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:72:9-74:46
+271-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:72:9-74:46
 272            android:name="com.huawei.hms.client.service.name:push"
-272-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:73:13-67
-273            android:value="push:5.1.1.300" />
-273-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:74:13-43
+272-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:73:13-67
+273            android:value="push:5.3.0.303" />
+273-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:74:13-43
 274        <meta-data
-274-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:75:9-77:33
+274-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:75:9-77:33
 275            android:name="com.huawei.hms.min_api_level:push:push"
-275-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:76:13-66
+275-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:76:13-66
 276            android:value="1" />
-276-->[com.huawei.hms:push:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\48341a354be8c3be469247c9f0b2b76e\jetified-push-5.1.1.301\AndroidManifest.xml:77:13-30
+276-->[com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:77:13-30
 277        <meta-data
 277-->[com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a997154b0ccc398d57948783318aa11\jetified-hianalytics-5.3.1.300\AndroidManifest.xml:16:9-18:53
 278            android:name="com.huawei.hms.client.service.name:hianalytics"
@@ -605,28 +605,28 @@
 335-->[com.huawei.hms:ads-splash:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d07a9ff64f62296f944aea7bc35cb73c\jetified-ads-splash-13.4.32.300\AndroidManifest.xml:15:13-51
 336
 337        <provider
-337-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:10:9-14:39
+337-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:10:9-14:39
 338            android:name="com.huawei.hms.aaid.InitProvider"
-338-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:11:13-60
+338-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:11:13-60
 339            android:authorities="com.pictroom.android.aaidinitprovider"
-339-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:12:13-68
+339-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:12:13-68
 340            android:exported="false"
-340-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:13:13-37
+340-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:13:13-37
 341            android:initOrder="500" />
-341-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:14:13-36
+341-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:14:13-36
 342
 343        <meta-data
-343-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:16:9-18:52
+343-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:16:9-18:52
 344            android:name="com.huawei.hms.client.service.name:opendevice"
-344-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:17:13-73
-345            android:value="opendevice:5.1.1.300" />
-345-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:18:13-49
+344-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:17:13-73
+345            android:value="opendevice:5.1.1.306" />
+345-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:18:13-49
 346        <meta-data
-346-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:19:9-21:33
+346-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:19:9-21:33
 347            android:name="com.huawei.hms.min_api_level:opendevice:push"
-347-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:20:13-72
+347-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:20:13-72
 348            android:value="1" />
-348-->[com.huawei.hms:opendevice:5.1.1.301] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4aa1b194f9a995323c705815bba62f1c\jetified-opendevice-5.1.1.301\AndroidManifest.xml:21:13-30
+348-->[com.huawei.hms:opendevice:5.1.1.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c021a9f0e3d038605c0a402323a914d\jetified-opendevice-5.1.1.306\AndroidManifest.xml:21:13-30
 349
 350        <uses-library
 350-->[com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9d76d1f6ac5c97762a0009fbaa6ed36\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:23:9-25:40

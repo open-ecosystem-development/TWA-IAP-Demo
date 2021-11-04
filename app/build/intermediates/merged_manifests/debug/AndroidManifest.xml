@@ -9,9 +9,9 @@
       <data android:scheme="https"/>
     </intent>
   </queries>
-  <permission android:name="com.pictroom.android.permission.PROCESS_PUSH_MSG" android:protectionLevel="signatureOrSystem"/>
-  <permission android:name="com.pictroom.android.permission.PUSH_PROVIDER" android:protectionLevel="signatureOrSystem"/>
-  <permission android:name="com.pictroom.android.permission.PUSH_WRITE_PROVIDER" android:protectionLevel="signatureOrSystem"/>
+  <permission android:name="com.pictroom.android.permission.PROCESS_PUSH_MSG" android:protectionLevel="signature"/>
+  <permission android:name="com.pictroom.android.permission.PUSH_PROVIDER" android:protectionLevel="signature"/>
+  <permission android:name="com.pictroom.android.permission.PUSH_WRITE_PROVIDER" android:protectionLevel="signature"/>
   <uses-permission android:name="com.pictroom.android.permission.PROCESS_PUSH_MSG"/>
   <uses-permission android:name="com.pictroom.android.permission.PUSH_PROVIDER"/>
   <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
@@ -100,7 +100,7 @@
       </intent-filter>
     </service>
     <provider android:name="com.huawei.hms.support.api.push.PushProvider" android:authorities="com.pictroom.android.huawei.push.provider" android:exported="true" android:permission="com.pictroom.android.permission.PUSH_PROVIDER" android:readPermission="com.pictroom.android.permission.PUSH_PROVIDER" android:writePermission="com.pictroom.android.permission.PUSH_WRITE_PROVIDER"/>
-    <meta-data android:name="com.huawei.hms.client.service.name:push" android:value="push:5.1.1.300"/>
+    <meta-data android:name="com.huawei.hms.client.service.name:push" android:value="push:5.3.0.303"/>
     <meta-data android:name="com.huawei.hms.min_api_level:push:push" android:value="1"/>
     <meta-data android:name="com.huawei.hms.client.service.name:hianalytics" android:value="hianalytics:5.3.1.300"/>
     <meta-data android:name="com.huawei.hms.min_api_level:hianalytics:hianalytics" android:value="1"/>
@@ -124,7 +124,7 @@
     <meta-data android:name="com.huawei.hms.client.service.name:ads-lang" android:value="ads-lang:13.4.32.300"/>
     <meta-data android:name="com.huawei.hms.client.service.name:ads-splash" android:value="ads-splash:13.4.32.300"/>
     <provider android:name="com.huawei.hms.aaid.InitProvider" android:authorities="com.pictroom.android.aaidinitprovider" android:exported="false" android:initOrder="500"/>
-    <meta-data android:name="com.huawei.hms.client.service.name:opendevice" android:value="opendevice:5.1.1.300"/>
+    <meta-data android:name="com.huawei.hms.client.service.name:opendevice" android:value="opendevice:5.1.1.306"/>
     <meta-data android:name="com.huawei.hms.min_api_level:opendevice:push" android:value="1"/>
     <uses-library android:name="org.apache.http.legacy" android:required="false"/>
     <meta-data android:name="com.huawei.hms.client.service.name:base" android:value="base:5.3.0.304"/>
