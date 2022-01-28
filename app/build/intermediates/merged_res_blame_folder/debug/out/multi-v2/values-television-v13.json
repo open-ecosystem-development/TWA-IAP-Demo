@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-television-v13\\values-television-v13.xml",
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA Account+IAP Test - pictroom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-television-v13\\values-television-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\0a0cc7228c95952c406175372a718b63\\jetified-update-3.0.2.300\\res\\values-television-v13\\values-television-v13.xml",

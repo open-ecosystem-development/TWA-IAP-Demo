@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA Account+IAP Test - pictroom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\2fa411951ba0e422c905b7333b258028\\browser-1.3.0\\res\\values-en-rXC\\values-en-rXC.xml",

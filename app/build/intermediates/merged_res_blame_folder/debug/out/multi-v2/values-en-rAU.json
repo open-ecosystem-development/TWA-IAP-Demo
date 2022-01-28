@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA Account+IAP Test - pictroom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\b18460598ec732c41491c25d5affef22\\jetified-ui-5.3.0.304\\res\\values-en-rAU\\values-en-rAU.xml",

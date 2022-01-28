@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA Account+IAP Test - pictroom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\48341a354be8c3be469247c9f0b2b76e\\jetified-push-5.1.1.301\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\9cd854a1a75512138130e21d274adba6\\jetified-push-5.3.0.304\\res\\values-my-rMM\\values-my-rMM.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

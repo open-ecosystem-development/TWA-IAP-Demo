@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA Account+IAP Test - pictroom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\9cd854a1a75512138130e21d274adba6\\jetified-push-5.3.0.304\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    },
+                    "to": {
+                        "startLines": "127",
+                        "startColumns": "4",
+                        "startOffsets": "13189",
+                        "endColumns": "82",
+                        "endOffsets": "13267"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\805cec8e580881ac0e2723cc25592e59\\jetified-play-services-base-17.0.0\\res\\values-sr\\values.xml",
                     "from": {
@@ -18,23 +35,6 @@
                         "startOffsets": "3776,3884,4072,4200,4312,4525,4654,4796,5116,5324,5433,5624,5753,5961,6133,6231,6326",
                         "endColumns": "107,187,127,111,212,128,141,130,207,108,190,128,207,171,97,94,108",
                         "endOffsets": "3879,4067,4195,4307,4520,4649,4791,4922,5319,5428,5619,5748,5956,6128,6226,6321,6430"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\48341a354be8c3be469247c9f0b2b76e\\jetified-push-5.1.1.301\\res\\values-sr\\values-sr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "82",
-                        "endOffsets": "133"
-                    },
-                    "to": {
-                        "startLines": "127",
-                        "startColumns": "4",
-                        "startOffsets": "13189",
-                        "endColumns": "82",
-                        "endOffsets": "13267"
                     }
                 },
                 {

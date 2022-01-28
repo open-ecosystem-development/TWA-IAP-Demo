@@ -27,7 +27,7 @@ def twaManifest = [
 //    hostName: 'w3schools.com', // The domain being opened in the TWA.
 //    launchUrl: '/code/tryit.asp?filename=GVC9JDSKIOUD', // The start path for the TWA. Must be relative to the domain.
     hostName: 'pictroom.com', // The domain being opened in the TWA.
-    launchUrl: '/', // The start path for the TWA. Must be relative to the domain.
+    launchUrl: '/?pwa=true', // The start path for the TWA. Must be relative to the domain.
     name: 'Sad Chonks', // The application name.
     launcherName: 'Chonks', // The name shown on the Android Launcher.
     themeColor: '#3F51B5', // The color used for the status bar.
@@ -61,6 +61,8 @@ android {
         targetSdkVersion 30
         versionCode 1
         versionName "1.0.0.0"
+
+        multiDexEnabled true
 
         // The name for the application
         resValue "string", "appName", twaManifest.name
@@ -243,5 +245,8 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
     implementation 'com.huawei.hms:iap:6.0.0.300'
     implementation 'com.huawei.agconnect:agconnect-applinking:1.6.0.300'
+    implementation "com.google.code.gson:gson:2.8.5"
+    implementation 'com.huawei.hms:hwid:5.2.0.300'
+    implementation 'com.android.support:multidex:1.0.3'
 
 }

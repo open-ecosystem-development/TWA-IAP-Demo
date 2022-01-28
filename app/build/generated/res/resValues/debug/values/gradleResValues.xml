@@ -22,7 +22,7 @@
     <!-- Value from default config. -->
     <string name="hostName" translatable="false">pictroom.com</string>
     <!-- Value from default config. -->
-    <string name="launchUrl" translatable="false">https://pictroom.com/</string>
+    <string name="launchUrl" translatable="false">https://pictroom.com/?pwa=true</string>
     <!-- Value from default config. -->
     <string name="launcherName" translatable="false">Chonks</string>
     <!-- Value from default config. -->

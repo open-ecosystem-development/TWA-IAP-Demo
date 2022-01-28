@@ -136,14 +136,15 @@
 <!--                <action android:name="android.intent.action.VIEW"/>-->
 <!--                <category android:name="android.intent.category.DEFAULT" />-->
 <!--                <category android:name="android.intent.category.BROWSABLE"/>-->
-<!--                <data android:scheme="https"-->
+<!--                <data-->
+<!--                    android:scheme="https"-->
 <!--                    android:host="@string/hostName"/>-->
 <!--            </intent-filter>-->
 
         </activity>
 
         <activity
-            android:name="com.ychen9.pwa.ConsumptionActivity"
+            android:name="com.pictroom.android.ConsumptionActivity"
             android:theme="@style/NoActionBar" >
 
             <intent-filter>
@@ -151,7 +152,20 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <!-- Add the prefix of the deep link of App Linking or Android and a custom scheme. -->
-                <data android:host="bvutestiap.dre.agconnect.link" android:scheme="testlink"/>
+                <data android:host="pictroom.dre.agconnect.link" android:scheme="iaplink"/>
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.pictroom.android.AccountActivity"
+            android:theme="@style/NoActionBar" >
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <!-- Add the prefix of the deep link of App Linking or Android and a custom scheme. -->
+                <data android:host="pictroom.dre.agconnect.link" android:scheme="accountlink"/>
             </intent-filter>
         </activity>
 

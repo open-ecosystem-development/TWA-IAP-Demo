@@ -135,7 +135,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.ychen9.pwa.ConsumptionActivity"
+            android:name="com.pictroom.android.ConsumptionActivity"
             android:theme="@style/NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
@@ -144,8 +144,22 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="bvutestiap.dre.agconnect.link"
-                    android:scheme="testlink" />
+                    android:host="pictroom.dre.agconnect.link"
+                    android:scheme="iaplink" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.pictroom.android.AccountActivity"
+            android:theme="@style/NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="pictroom.dre.agconnect.link"
+                    android:scheme="accountlink" />
             </intent-filter>
         </activity>
         <activity android:name="com.google.androidbrowserhelper.trusted.FocusActivity" />
@@ -264,6 +278,25 @@
                 android:name="com.huawei.agconnect.credential.CredentialServiceRegistrar:100"
                 android:value="com.huawei.agconnect.core.ServiceRegistrar" />
         </service>
+
+        <activity
+            android:name="com.huawei.hms.hwid.internal.ui.activity.HwIdSignInHubActivity"
+            android:configChanges="fontScale|uiMode"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.huawei.hms.account.internal.ui.activity.AccountSignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:hwid"
+            android:value="hwid:5.2.0.300" />
+        <meta-data
+            android:name="com.huawei.hms.min_api_level:hwid:hwid"
+            android:value="1" />
 
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"

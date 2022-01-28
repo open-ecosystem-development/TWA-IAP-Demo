@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:1-199:12
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:1-199:12
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:1-199:12
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:1-199:12
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:1-213:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:1-213:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:1-213:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:1-213:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\db83f4d3ad9ec61637ad951732552f42\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eefef50ad264075759e0e1d4f1c139d9\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\165f150f5a58ffc8075d013cd7a3d67c\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c10c6beebfadcba505ca9cce907b9d0f\jetified-locationdelegation-1.0.1\AndroidManifest.xml:2:1-17:12
@@ -13,7 +14,8 @@ MERGED from [com.huawei.hms:ads-consent:3.4.32.300] C:\Users\Administrator\.grad
 MERGED from [com.huawei.hms:push:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cd854a1a75512138130e21d274adba6\jetified-push-5.3.0.304\AndroidManifest.xml:2:1-80:12
 MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a997154b0ccc398d57948783318aa11\jetified-hianalytics-5.3.1.300\AndroidManifest.xml:2:1-32:12
 MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fcd3d86d45164a87cb805e88783d3401\jetified-iap-6.0.0.300\AndroidManifest.xml:2:1-17:12
-MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:3:1-21:12
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:3:1-21:12
+MERGED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:2:1-33:12
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4972987f8aa00204583343fc733fc461\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\805cec8e580881ac0e2723cc25592e59\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a4283819e860199b501adfb4022c87f1\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
@@ -54,11 +56,11 @@ MERGED from [com.huawei.hms:base:5.3.0.304] C:\Users\Administrator\.gradle\cache
 MERGED from [com.huawei.agconnect:agconnect-https:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\03db19d278b7fb794d0e990ccb82d61a\jetified-agconnect-https-1.6.0.300\AndroidManifest.xml:3:1-13:12
 MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5659510f2d0eaf4c44ab914566cef6da\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:2:1-33:12
 MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\96ab6bc09b739824aac565b7775f212a\jetified-device-5.3.0.304\AndroidManifest.xml:2:1-22:12
-MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:2:1-21:12
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:2:1-21:12
 MERGED from [com.huawei.agconnect:datastore-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8ba72cd3803808c8426162a56d68075\jetified-datastore-core-1.6.0.300\AndroidManifest.xml:2:1-10:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b38d589b72ae56ac53e755e8566db779\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\15dcb355bc11860f23721698856097d1\jetified-ads-base-13.4.32.300\AndroidManifest.xml:3:1-67:12
-MERGED from [com.huawei.android.hms:security-base:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dd1c742fb05cdc75389dbf0efedd6592\jetified-security-base-1.1.5.306\AndroidManifest.xml:2:1-9:12
+MERGED from [com.huawei.android.hms:security-base:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f57bf0f15619806472a10a518ef1f51c\jetified-security-base-1.1.5.306\AndroidManifest.xml:2:1-9:12
 MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a0cc7228c95952c406175372a718b63\jetified-update-3.0.2.300\AndroidManifest.xml:2:1-48:12
 MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9eb8911210f9f60077d4118141365a92\jetified-stats-5.3.0.304\AndroidManifest.xml:2:1-16:12
 MERGED from [com.huawei.hms:network-grs:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8e677cb7d249327accf889c062f0496e\jetified-network-grs-5.0.3.300\AndroidManifest.xml:2:1-11:12
@@ -69,28 +71,28 @@ MERGED from [com.huawei.hms:ui:5.3.0.304] C:\Users\Administrator\.gradle\caches\
 MERGED from [com.huawei.hms:log:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3133ebdc62c660ae400c1766e44c7ad0\jetified-log-5.3.0.304\AndroidManifest.xml:2:1-11:12
 MERGED from [com.huawei.hms:componentverifysdk:11.2.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f5f1e4b4222baa3c6fd10ccdee64df2\jetified-componentverifysdk-11.2.1.300\AndroidManifest.xml:2:1-13:12
 MERGED from [com.huawei.hms:network-framework-compat:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f343ab5e71b705ebb45ef11acb0d3f62\jetified-network-framework-compat-5.0.3.300\AndroidManifest.xml:2:1-11:12
-MERGED from [com.huawei.hms:network-common:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\edc5257649e5c634efcf837cdda7f371\jetified-network-common-5.0.3.300\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:1-199:12
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:1-199:12
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:1-199:12
+MERGED from [com.huawei.hms:network-common:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b88bbd39d346b4e11462d6376892ff61\jetified-network-common-5.0.3.300\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:1-213:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:1-213:12
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:1-213:12
 	package
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:24:5-35
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:24:5-35
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:1-199:12
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:1-213:12
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:23:5-51
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:23:5-51
 	android:versionCode
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:1-199:12
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:1-213:12
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:22:11-69
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:22:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:26:5-67
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:26:5-67
 MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a997154b0ccc398d57948783318aa11\jetified-hianalytics-5.3.1.300\AndroidManifest.xml:11:5-67
 MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a997154b0ccc398d57948783318aa11\jetified-hianalytics-5.3.1.300\AndroidManifest.xml:11:5-67
 MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9d76d1f6ac5c97762a0009fbaa6ed36\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:12:5-67
@@ -106,15 +108,15 @@ MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\cac
 MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9eb8911210f9f60077d4118141365a92\jetified-stats-5.3.0.304\AndroidManifest.xml:10:5-67
 MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9eb8911210f9f60077d4118141365a92\jetified-stats-5.3.0.304\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:26:22-64
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:26:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:27:5-79
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:27:5-79
 MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c10c6beebfadcba505ca9cce907b9d0f\jetified-locationdelegation-1.0.1\AndroidManifest.xml:11:5-79
 MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c10c6beebfadcba505ca9cce907b9d0f\jetified-locationdelegation-1.0.1\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:27:22-76
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:27:22-76
 application
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:29:5-198:19
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:29:5-212:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eefef50ad264075759e0e1d4f1c139d9\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eefef50ad264075759e0e1d4f1c139d9\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
 MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c10c6beebfadcba505ca9cce907b9d0f\jetified-locationdelegation-1.0.1\AndroidManifest.xml:13:5-15:19
@@ -129,8 +131,10 @@ MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradl
 MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a997154b0ccc398d57948783318aa11\jetified-hianalytics-5.3.1.300\AndroidManifest.xml:15:5-30:19
 MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fcd3d86d45164a87cb805e88783d3401\jetified-iap-6.0.0.300\AndroidManifest.xml:11:5-15:19
 MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fcd3d86d45164a87cb805e88783d3401\jetified-iap-6.0.0.300\AndroidManifest.xml:11:5-15:19
-MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:11:5-19:19
-MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:11:5-19:19
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:11:5-19:19
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:11:5-19:19
+MERGED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:9:5-31:19
+MERGED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:9:5-31:19
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4972987f8aa00204583343fc733fc461\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4972987f8aa00204583343fc733fc461\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\805cec8e580881ac0e2723cc25592e59\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
@@ -169,8 +173,8 @@ MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.g
 MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5659510f2d0eaf4c44ab914566cef6da\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:18:5-31:19
 MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\96ab6bc09b739824aac565b7775f212a\jetified-device-5.3.0.304\AndroidManifest.xml:14:5-20:19
 MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\96ab6bc09b739824aac565b7775f212a\jetified-device-5.3.0.304\AndroidManifest.xml:14:5-20:19
-MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:10:5-19:19
-MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:10:5-19:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:10:5-19:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:10:5-19:19
 MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\15dcb355bc11860f23721698856097d1\jetified-ads-base-13.4.32.300\AndroidManifest.xml:16:5-65:19
 MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\15dcb355bc11860f23721698856097d1\jetified-ads-base-13.4.32.300\AndroidManifest.xml:16:5-65:19
 MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a0cc7228c95952c406175372a718b63\jetified-update-3.0.2.300\AndroidManifest.xml:20:5-46:19
@@ -188,265 +192,275 @@ MERGED from [com.huawei.hms:componentverifysdk:11.2.1.300] C:\Users\Administrato
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\89a0df44bcec2ea00312b402fc8cf2b1\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:37:9-35
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:37:9-35
 	android:label
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:33:9-40
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:33:9-40
 	android:manageSpaceActivity
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:35:9-105
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:35:9-105
 	android:icon
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:32:9-43
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:32:9-43
 	android:allowBackup
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:31:9-35
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:31:9-35
 	android:theme
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:38:9-68
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:38:9-68
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:30:9-35
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:30:9-35
 meta-data#com.huawei.hms.client.appid
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:40:9-43:21
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:40:9-43:21
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:42:13-44
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:42:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:41:13-55
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:41:13-55
 meta-data#com.huawei.hms.client.cpid
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:44:9-47:21
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:44:9-47:21
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:46:13-52
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:46:13-52
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:45:13-54
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:45:13-54
 meta-data#asset_statements
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:48:9-50:58
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:48:9-50:58
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:50:13-55
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:50:13-55
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:49:13-44
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:49:13-44
 meta-data#web_manifest_url
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:53:13-55:58
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:53:13-55:58
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:55:17-55
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:55:17-55
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:54:17-48
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:54:17-48
 meta-data#twa_generator
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:58:9-60:52
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:58:9-60:52
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:60:13-49
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:60:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:59:13-41
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:59:13-41
 activity#com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:63:13-67:24
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:63:13-67:24
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:63:23-104
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:63:23-104
 meta-data#android.support.customtabs.trusted.MANAGE_SPACE_URL
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:64:13-66:53
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:64:13-66:53
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:66:17-50
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:66:17-50
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:65:17-83
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:65:17-83
 activity#com.pictroom.android.LauncherActivity
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:70:9-143:20
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:70:9-144:20
 	android:label
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:72:13-49
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:72:13-49
 	android:alwaysRetainTaskState
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:71:13-49
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:71:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:70:19-50
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:70:19-50
 meta-data#android.support.customtabs.trusted.ADDITIONAL_TRUSTED_ORIGINS
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:73:13-75:72
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:73:13-75:72
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:75:17-69
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:75:17-69
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:74:17-93
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:74:17-93
 meta-data#android.support.customtabs.trusted.DEFAULT_URL
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:77:13-78:53
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:77:13-78:53
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:78:17-50
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:78:17-50
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:77:24-85
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:77:24-85
 meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:80:13-82:58
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:80:13-82:58
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:82:17-55
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:82:17-55
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:81:17-83
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:81:17-83
 meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:84:13-86:61
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:84:13-86:61
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:86:17-58
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:86:17-58
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:85:17-87
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:85:17-87
 meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:88:13-90:65
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:88:13-90:65
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:90:17-62
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:90:17-62
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:89:17-92
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:89:17-92
 meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:92:13-94:68
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:92:13-94:68
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:94:17-65
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:94:17-65
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:93:17-84
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:93:17-84
 meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:96:13-98:72
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:96:13-98:72
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:98:17-69
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:98:17-69
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:97:17-89
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:97:17-89
 meta-data#android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:100:13-101:54
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:100:13-101:54
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:101:17-52
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:101:17-52
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:100:24-95
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:100:24-95
 meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:103:13-104:60
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:103:13-104:60
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:104:17-58
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:104:17-58
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:103:24-104
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:103:24-104
 meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:106:13-107:71
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:106:13-107:71
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:107:17-69
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:107:17-69
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:106:24-105
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:106:24-105
 meta-data#android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:109:13-110:60
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:109:13-110:60
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:110:17-58
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:110:17-58
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:109:24-97
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:109:24-97
 meta-data#android.app.shortcuts
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:112:13-97
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:112:13-97
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:112:61-94
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:112:61-94
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:112:24-60
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:112:24-60
 meta-data#android.support.customtabs.trusted.FALLBACK_STRATEGY
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:114:13-115:56
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:114:13-115:56
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:115:17-53
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:115:17-53
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:114:24-91
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:114:24-91
 meta-data#android.support.customtabs.trusted.METADATA_SHARE_TARGET
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:117:13-119:57
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:117:13-119:57
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:119:17-55
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:119:17-55
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:118:17-88
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:118:17-88
 meta-data#android.support.customtabs.trusted.SCREEN_ORIENTATION
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:121:13-122:54
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:121:13-122:54
 	android:value
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:122:17-52
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:122:17-52
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:121:24-92
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:121:24-92
 intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:124:13-128:29
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:124:13-128:29
 action#android.intent.action.SEND
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:125:17-69
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:125:17-69
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:125:25-66
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:125:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:126:17-76
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:126:17-76
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:126:27-73
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:126:27-73
 data
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:127:17-55
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:127:17-55
 	android:host
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:154:23-67
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:155:23-65
 	android:scheme
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:154:68-93
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:155:66-90
 	android:mimeType
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:127:23-52
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:127:23-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:130:13-133:29
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:130:13-133:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:131:17-69
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:131:17-69
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:131:25-66
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:131:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:132:17-77
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:132:17-77
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:132:27-74
-activity#com.ychen9.pwa.ConsumptionActivity
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:145:9-156:20
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:132:27-74
+activity#com.pictroom.android.ConsumptionActivity
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:146:9-157:20
 	android:theme
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:147:13-47
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:148:13-47
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:146:13-62
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:bvutestiap.dre.agconnect.link+data:scheme:testlink
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:149:13-155:29
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:147:13-68
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:pictroom.dre.agconnect.link+data:scheme:iaplink
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:150:13-156:29
 action#android.intent.action.VIEW
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:150:17-68
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:151:17-68
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:150:25-66
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:151:25-66
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:152:17-77
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:153:17-77
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:152:27-75
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:153:27-75
+activity#com.pictroom.android.AccountActivity
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:159:9-170:20
+	android:theme
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:161:13-47
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:160:13-64
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:pictroom.dre.agconnect.link+data:scheme:accountlink
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:163:13-169:29
 activity#com.google.androidbrowserhelper.trusted.FocusActivity
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:158:9-90
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:172:9-90
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:158:19-87
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:172:19-87
 activity#com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:160:9-161:62
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:174:9-175:62
 	android:configChanges
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:161:13-59
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:175:13-59
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:160:19-97
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:174:19-97
 provider#androidx.core.content.FileProvider
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:163:9-171:20
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:177:9-185:20
 	android:grantUriPermissions
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:166:13-47
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:180:13-47
 	android:authorities
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:165:13-60
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:179:13-60
 	android:exported
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:167:13-37
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:181:13-37
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:164:13-62
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:178:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:168:13-170:53
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:182:13-184:53
 	android:resource
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:170:17-50
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:184:17-50
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:169:17-67
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:183:17-67
 service#com.pictroom.android.DelegationService
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:173:9-184:19
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:187:9-198:19
 	android:enabled
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:175:13-55
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:189:13-55
 	android:exported
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:176:13-56
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:190:13-56
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:174:13-46
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:188:13-46
 intent-filter#action:name:android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE+category:name:android.intent.category.DEFAULT
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:180:13-183:29
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:194:13-197:29
 action#android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:181:17-105
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:195:17-105
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:181:25-103
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:195:25-103
 service#com.pictroom.android.MyPushService
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:185:9-192:19
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:199:9-206:19
 	android:exported
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:187:13-37
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:201:13-37
 	tools:ignore
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:188:13-42
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:202:13-42
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:186:13-42
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:200:13-42
 intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:189:13-191:29
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:203:13-205:29
 action#com.huawei.push.action.MESSAGING_EVENT
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:190:17-81
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:204:17-81
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:190:25-78
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:204:25-78
 activity#com.google.androidbrowserhelper.locationdelegation.PermissionRequestActivity
-ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:195:13-196:89
+ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:209:13-210:89
 MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c10c6beebfadcba505ca9cce907b9d0f\jetified-locationdelegation-1.0.1\AndroidManifest.xml:14:9-113
 MERGED from [com.google.androidbrowserhelper:locationdelegation:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c10c6beebfadcba505ca9cce907b9d0f\jetified-locationdelegation-1.0.1\AndroidManifest.xml:14:9-113
 	android:name
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml:195:23-123
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml:209:23-123
 uses-sdk
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\db83f4d3ad9ec61637ad951732552f42\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\db83f4d3ad9ec61637ad951732552f42\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eefef50ad264075759e0e1d4f1c139d9\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\eefef50ad264075759e0e1d4f1c139d9\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\165f150f5a58ffc8075d013cd7a3d67c\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
@@ -465,8 +479,10 @@ MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradl
 MERGED from [com.huawei.hms:hianalytics:5.3.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a997154b0ccc398d57948783318aa11\jetified-hianalytics-5.3.1.300\AndroidManifest.xml:7:5-9:41
 MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fcd3d86d45164a87cb805e88783d3401\jetified-iap-6.0.0.300\AndroidManifest.xml:7:5-9:41
 MERGED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fcd3d86d45164a87cb805e88783d3401\jetified-iap-6.0.0.300\AndroidManifest.xml:7:5-9:41
-MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:7:5-9:41
-MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4972987f8aa00204583343fc733fc461\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4972987f8aa00204583343fc733fc461\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\805cec8e580881ac0e2723cc25592e59\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
@@ -547,16 +563,16 @@ MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.g
 MERGED from [com.huawei.hms:availableupdate:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5659510f2d0eaf4c44ab914566cef6da\jetified-availableupdate-5.3.0.304\AndroidManifest.xml:5:5-7:41
 MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\96ab6bc09b739824aac565b7775f212a\jetified-device-5.3.0.304\AndroidManifest.xml:6:5-9:61
 MERGED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\96ab6bc09b739824aac565b7775f212a\jetified-device-5.3.0.304\AndroidManifest.xml:6:5-9:61
-MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
-MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
 MERGED from [com.huawei.agconnect:datastore-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8ba72cd3803808c8426162a56d68075\jetified-datastore-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
 MERGED from [com.huawei.agconnect:datastore-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c8ba72cd3803808c8426162a56d68075\jetified-datastore-core-1.6.0.300\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b38d589b72ae56ac53e755e8566db779\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b38d589b72ae56ac53e755e8566db779\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\15dcb355bc11860f23721698856097d1\jetified-ads-base-13.4.32.300\AndroidManifest.xml:8:5-10:41
 MERGED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\15dcb355bc11860f23721698856097d1\jetified-ads-base-13.4.32.300\AndroidManifest.xml:8:5-10:41
-MERGED from [com.huawei.android.hms:security-base:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dd1c742fb05cdc75389dbf0efedd6592\jetified-security-base-1.1.5.306\AndroidManifest.xml:7:5-43
-MERGED from [com.huawei.android.hms:security-base:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\dd1c742fb05cdc75389dbf0efedd6592\jetified-security-base-1.1.5.306\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-base:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f57bf0f15619806472a10a518ef1f51c\jetified-security-base-1.1.5.306\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-base:1.1.5.306] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f57bf0f15619806472a10a518ef1f51c\jetified-security-base-1.1.5.306\AndroidManifest.xml:7:5-43
 MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a0cc7228c95952c406175372a718b63\jetified-update-3.0.2.300\AndroidManifest.xml:7:5-9:41
 MERGED from [com.huawei.hms:update:3.0.2.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0a0cc7228c95952c406175372a718b63\jetified-update-3.0.2.300\AndroidManifest.xml:7:5-9:41
 MERGED from [com.huawei.hms:stats:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9eb8911210f9f60077d4118141365a92\jetified-stats-5.3.0.304\AndroidManifest.xml:5:5-7:41
@@ -577,20 +593,20 @@ MERGED from [com.huawei.hms:componentverifysdk:11.2.1.300] C:\Users\Administrato
 MERGED from [com.huawei.hms:componentverifysdk:11.2.1.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4f5f1e4b4222baa3c6fd10ccdee64df2\jetified-componentverifysdk-11.2.1.300\AndroidManifest.xml:6:5-8:41
 MERGED from [com.huawei.hms:network-framework-compat:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f343ab5e71b705ebb45ef11acb0d3f62\jetified-network-framework-compat-5.0.3.300\AndroidManifest.xml:7:5-9:41
 MERGED from [com.huawei.hms:network-framework-compat:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f343ab5e71b705ebb45ef11acb0d3f62\jetified-network-framework-compat-5.0.3.300\AndroidManifest.xml:7:5-9:41
-MERGED from [com.huawei.hms:network-common:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\edc5257649e5c634efcf837cdda7f371\jetified-network-common-5.0.3.300\AndroidManifest.xml:7:5-9:41
-MERGED from [com.huawei.hms:network-common:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\edc5257649e5c634efcf837cdda7f371\jetified-network-common-5.0.3.300\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
+MERGED from [com.huawei.hms:network-common:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b88bbd39d346b4e11462d6376892ff61\jetified-network-common-5.0.3.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:5.0.3.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b88bbd39d346b4e11462d6376892ff61\jetified-network-common-5.0.3.300\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9d76d1f6ac5c97762a0009fbaa6ed36\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:10:9-67
 	android:targetSdkVersion
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA IAP assetlinks test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Futurewei\TWA Account+IAP Test - pictroom\app\src\main\AndroidManifest.xml
 queries
 ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3263b8fda96604e1e4767c191a6bdfb3\jetified-androidbrowserhelper-2.2.2\AndroidManifest.xml:26:5-34:15
 intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
@@ -802,21 +818,55 @@ ADDED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\
 	android:name
 		ADDED from [com.huawei.hms:iap:6.0.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fcd3d86d45164a87cb805e88783d3401\jetified-iap-6.0.0.300\AndroidManifest.xml:13:13-66
 service#com.huawei.agconnect.core.ServiceDiscovery
-ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:12:9-18:19
+ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:12:9-18:19
 MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9d76d1f6ac5c97762a0009fbaa6ed36\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:15:9-21:19
 MERGED from [com.huawei.agconnect:agconnect-credential:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9d76d1f6ac5c97762a0009fbaa6ed36\jetified-agconnect-credential-1.6.0.300\AndroidManifest.xml:15:9-21:19
-MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:16:9-18:40
-MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:16:9-18:40
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:16:9-18:40
+MERGED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:16:9-18:40
 	android:exported
-		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:14:13-37
+		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:13:13-70
+		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:13:13-70
 meta-data#com.huawei.agconnect.applinking.AppLinkingRegistrar
-ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:15:13-17:78
+ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:15:13-17:78
 	android:value
-		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:17:17-75
+		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:17:17-75
 	android:name
-		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a038d86b205860426ab764152a80863f\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:16:17-83
+		ADDED from [com.huawei.agconnect:agconnect-applinking:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65e6b0a0aa3f547c6a5d1e45a9846405\jetified-agconnect-applinking-1.6.0.300\AndroidManifest.xml:16:17-83
+activity#com.huawei.hms.hwid.internal.ui.activity.HwIdSignInHubActivity
+ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:10:9-16:20
+	android:excludeFromRecents
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:13:13-46
+	android:exported
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:14:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:12:13-53
+	android:theme
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:11:13-90
+activity#com.huawei.hms.account.internal.ui.activity.AccountSignInHubActivity
+ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:17:9-22:20
+	android:excludeFromRecents
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:19:13-46
+	android:exported
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:20:13-37
+	android:theme
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:18:13-96
+meta-data#com.huawei.hms.client.service.name:hwid
+ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:25:9-27:46
+	android:value
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:26:13-67
+meta-data#com.huawei.hms.min_api_level:hwid:hwid
+ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:28:9-30:33
+	android:value
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:30:13-30
+	android:name
+		ADDED from [com.huawei.hms:hwid:5.2.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0be82554394cccd25929cb49617a0258\jetified-hwid-5.2.0.300\AndroidManifest.xml:29:13-66
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\805cec8e580881ac0e2723cc25592e59\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -954,13 +1004,13 @@ ADDED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\cach
 	android:name
 		ADDED from [com.huawei.hms:device:5.3.0.304] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\96ab6bc09b739824aac565b7775f212a\jetified-device-5.3.0.304\AndroidManifest.xml:16:13-75
 provider#com.huawei.agconnect.core.provider.AGConnectInitializeProvider
-ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:11:9-14:40
+ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:11:9-14:40
 	android:authorities
-		ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:13:13-73
+		ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:13:13-73
 	android:exported
-		ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:14:13-37
+		ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\178a72b2aad5640bafc3c40ef9eeb140\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:12:13-90
+		ADDED from [com.huawei.agconnect:agconnect-core:1.6.0.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\41c4f31c0bc06075bed323ecf242d4d8\jetified-agconnect-core-1.6.0.300\AndroidManifest.xml:12:13-90
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.huawei.hms:ads-base:13.4.32.300] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\15dcb355bc11860f23721698856097d1\jetified-ads-base-13.4.32.300\AndroidManifest.xml:14:5-76
 	android:name

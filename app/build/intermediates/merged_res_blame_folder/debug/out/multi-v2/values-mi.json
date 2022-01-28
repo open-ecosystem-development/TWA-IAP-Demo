@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mi\\values-mi.xml",
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA Account+IAP Test - pictroom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mi\\values-mi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\48341a354be8c3be469247c9f0b2b76e\\jetified-push-5.1.1.301\\res\\values-mi\\values-mi.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\9cd854a1a75512138130e21d274adba6\\jetified-push-5.3.0.304\\res\\values-mi\\values-mi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,11 +30,28 @@
                         "endOffsets": "136,241,313,391,538,613,709,849,930,1072,1255,1407,1487,1567,1654,1742,1822,1894,2015,2122,2217,2329"
                     },
                     "to": {
-                        "startLines": "121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142",
+                        "startLines": "122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "11559,11645,11750,11822,11900,12047,12122,12218,12358,12439,12581,12764,12916,12996,13076,13163,13251,13331,13403,13524,13631,13726",
+                        "startOffsets": "11662,11748,11853,11925,12003,12150,12225,12321,12461,12542,12684,12867,13019,13099,13179,13266,13354,13434,13506,13627,13734,13829",
                         "endColumns": "85,104,71,77,146,74,95,139,80,141,182,151,79,79,86,87,79,71,120,106,94,111",
-                        "endOffsets": "11640,11745,11817,11895,12042,12117,12213,12353,12434,12576,12759,12911,12991,13071,13158,13246,13326,13398,13519,13626,13721,13833"
+                        "endOffsets": "11743,11848,11920,11998,12145,12220,12316,12456,12537,12679,12862,13014,13094,13174,13261,13349,13429,13501,13622,13729,13824,13936"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\0be82554394cccd25929cb49617a0258\\jetified-hwid-5.2.0.300\\res\\values-mi\\values-mi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "121",
+                        "startColumns": "4",
+                        "startOffsets": "11559",
+                        "endColumns": "102",
+                        "endOffsets": "11657"
                     }
                 },
                 {

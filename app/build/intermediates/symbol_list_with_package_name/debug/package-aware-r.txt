@@ -277,6 +277,9 @@ attr hiad_typefaceIndex
 attr hideOnContentScroll
 attr homeAsUpIndicator
 attr homeLayout
+attr hwid_button_theme
+attr hwid_color_policy
+attr hwid_corner_radius
 attr icon
 attr iconTint
 attr iconTintMode
@@ -650,8 +653,10 @@ color browser_actions_bg_grey
 color browser_actions_divider_color
 color browser_actions_text_color
 color browser_actions_title_color
+color btn_blue
 color button_material_dark
 color button_material_light
+color colorAccent
 color colorNav
 color colorNavDivider
 color colorPrimary
@@ -768,6 +773,14 @@ color hiad_whythisad_normal_bg_pressed
 color hiad_whythisad_root_bg
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color hwid_auth_button_color_black
+color hwid_auth_button_color_blue
+color hwid_auth_button_color_border
+color hwid_auth_button_color_gray
+color hwid_auth_button_color_red
+color hwid_auth_button_color_text_black
+color hwid_auth_button_color_text_white
+color hwid_auth_button_color_white
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -808,11 +821,13 @@ color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
+color text_white
 color tooltip_background_dark
 color tooltip_background_light
 color upsdk_color_gray_1
 color upsdk_color_gray_10
 color upsdk_color_gray_7
+color warning_red
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -894,6 +909,9 @@ dimen abc_text_size_subhead_material
 dimen abc_text_size_subtitle_material_toolbar
 dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
+dimen activity_horizontal_margin
+dimen activity_title_margin
+dimen activity_vertical_margin
 dimen browser_actions_context_menu_max_width
 dimen browser_actions_context_menu_min_padding
 dimen compat_button_inset_horizontal_material
@@ -1039,6 +1057,7 @@ dimen upsdk_margin_m
 dimen upsdk_margin_xs
 dimen upsdk_master_body_2
 dimen upsdk_master_subtitle
+dimen view_vertical_margin
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -1118,6 +1137,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable bg_blue_circle
+drawable bg_blue_circle_side
 drawable blue_ball
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -1181,6 +1202,12 @@ drawable hiad_video_mute
 drawable hiad_video_mute_mirror
 drawable hiad_video_unmute
 drawable hiad_video_unmute_mirror
+drawable hwid_auth_button_background
+drawable hwid_auth_button_normal
+drawable hwid_auth_button_round_black
+drawable hwid_auth_button_round_normal
+drawable hwid_auth_button_round_white
+drawable hwid_auth_button_white
 drawable ic_icon_delete
 drawable ic_site_settings
 drawable notification_action_background
@@ -1248,6 +1275,10 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
+id account_signInCode
+id account_signin
+id account_signout
+id account_silent_signin
 id action
 id actionDown
 id actionDownUp
@@ -1312,6 +1343,7 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id buttonPanel
 id cache_measures
+id cancel_authorization
 id cancel_bg
 id cancel_imageview
 id carryVelocity
@@ -1374,6 +1406,7 @@ id expanded_menu
 id flip
 id forever
 id fragment_container_view_tag
+id framelog
 id frost
 id gems_count
 id gone
@@ -1439,6 +1472,17 @@ id home
 id homeAsUp
 id honorRequest
 id horizontal_only
+id hwid_button_theme_full_title
+id hwid_button_theme_no_title
+id hwid_color_policy_black
+id hwid_color_policy_blue
+id hwid_color_policy_gray
+id hwid_color_policy_red
+id hwid_color_policy_white
+id hwid_color_policy_white_with_border
+id hwid_corner_radius_large
+id hwid_corner_radius_medium
+id hwid_corner_radius_small
 id icon
 id icon_group
 id icon_only
@@ -1486,6 +1530,7 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id open_extra_headers
 id overshoot
 id packed
 id parent
@@ -1606,6 +1651,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id webview
 id west
 id wide
 id window_image_content
@@ -1666,9 +1712,11 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_account
 layout activity_consumption
 layout activity_endisable_service
 layout activity_main
+layout activity_webview
 layout bill_list_item
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
@@ -1806,6 +1854,7 @@ string banner_color_label
 string banner_size_label
 string buy
 string cancel
+string cancel_authorization
 string cancel_state
 string click_to_retry
 string color_black
@@ -1952,6 +2001,7 @@ string hms_update_message_new
 string hms_update_nettype
 string hms_update_title
 string hostName
+string hwid_huawei_login_button_text
 string image_ad_id
 string interstitial_ad
 string interstitial_display_picture
@@ -1992,8 +2042,11 @@ string purchase_history_title
 string push_cat_body
 string push_cat_head
 string refund_state
+string revokeAccess
 string reward_ad
 string reward_ad_title
+string sample_account_description
+string sample_description
 string search_menu_title
 string service_one
 string service_two
@@ -2001,6 +2054,9 @@ string setting
 string shareTarget
 string shortcut_name_0
 string shortcut_short_name_0
+string sign_in
+string sign_out
+string silent_sign_in
 string size_300_250
 string size_320_100
 string size_320_50
@@ -2210,6 +2266,8 @@ style Base_Widget_AppCompat_TextView_SpinnerItem
 style Base_Widget_AppCompat_Toolbar
 style Base_Widget_AppCompat_Toolbar_Button_Navigation
 style Base_Translucent
+style ButtonStyle
+style EditTextStyle
 style FullscreenTheme
 style HIAD_App_desc_text
 style HIAD_App_download_text
@@ -2340,6 +2398,8 @@ style ThemeOverlay_AppCompat_DayNight_ActionBar
 style ThemeOverlay_AppCompat_Dialog
 style ThemeOverlay_AppCompat_Dialog_Alert
 style ThemeOverlay_AppCompat_Light
+style TitleStyle
+style WarningStyle
 style Widget_AppCompat_ActionBar
 style Widget_AppCompat_ActionBar_Solid
 style Widget_AppCompat_ActionBar_TabBar
@@ -2415,6 +2475,7 @@ style Widget_AppCompat_Toolbar
 style Widget_AppCompat_Toolbar_Button_Navigation
 style Widget_Compat_NotificationActionContainer
 style Widget_Compat_NotificationActionText
+style buoy_loading_activity_style
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
@@ -2449,6 +2510,7 @@ styleable Fragment android_name android_id android_tag
 styleable FragmentContainerView android_name android_tag
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
+styleable HuaweiIdAuthButton hwid_button_theme hwid_color_policy hwid_corner_radius
 styleable ImageFilterView altSrc blendSrc brightness contrast crossfade imagePanX imagePanY imageRotate imageZoom overlay round roundPercent saturation warmth
 styleable KeyAttribute android_alpha android_transformPivotX android_transformPivotY android_translationX android_translationY android_scaleX android_scaleY android_rotation android_rotationX android_rotationY android_translationZ android_elevation curveFit framePosition motionProgress motionTarget transformPivotTarget transitionEasing transitionPathRotate
 styleable KeyCycle android_alpha android_translationX android_translationY android_scaleX android_scaleY android_rotation android_rotationX android_rotationY android_translationZ android_elevation curveFit framePosition motionProgress motionTarget transitionEasing transitionPathRotate waveOffset wavePeriod wavePhase waveShape waveVariesBy

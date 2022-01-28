@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\TWA Account+IAP Test - pictroom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\91de6191ac5849aa3e0a9db32696cd3b\\jetified-play-services-basement-17.0.0\\res\\values-b+sr+Latn\\values.xml",
@@ -38,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\48341a354be8c3be469247c9f0b2b76e\\jetified-push-5.1.1.301\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\0be82554394cccd25929cb49617a0258\\jetified-hwid-5.2.0.300\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "80",
-                        "endOffsets": "131"
+                        "endColumns": "112",
+                        "endOffsets": "163"
                     },
                     "to": {
-                        "startLines": "152",
+                        "startLines": "161",
                         "startColumns": "4",
-                        "startOffsets": "15630",
-                        "endColumns": "80",
-                        "endOffsets": "15706"
+                        "startOffsets": "16501",
+                        "endColumns": "112",
+                        "endOffsets": "16609"
                     }
                 },
                 {
@@ -64,11 +64,11 @@
                         "endOffsets": "141,239,315,393,543,615,720,852,925,1080,1249,1397,1471,1548,1625,1713,1794,1866,1985,2096,2191,2308"
                     },
                     "to": {
-                        "startLines": "163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184",
+                        "startLines": "164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "16689,16780,16878,16954,17032,17182,17254,17359,17491,17564,17719,17888,18036,18110,18187,18264,18352,18433,18505,18624,18735,18830",
+                        "startOffsets": "16802,16893,16991,17067,17145,17295,17367,17472,17604,17677,17832,18001,18149,18223,18300,18377,18465,18546,18618,18737,18848,18943",
                         "endColumns": "90,97,75,77,149,71,104,131,72,154,168,147,73,76,76,87,80,71,118,110,94,116",
-                        "endOffsets": "16775,16873,16949,17027,17177,17249,17354,17486,17559,17714,17883,18031,18105,18182,18259,18347,18428,18500,18619,18730,18825,18942"
+                        "endOffsets": "16888,16986,17062,17140,17290,17362,17467,17599,17672,17827,17996,18144,18218,18295,18372,18460,18541,18613,18732,18843,18938,19055"
                     }
                 },
                 {
@@ -81,11 +81,11 @@
                         "endOffsets": "207,308,414,500,604,726,811,893,984,1077,1172,1266,1366,1459,1554,1659,1750,1841,1927,2032,2138,2241,2348,2457,2564,2734,2831,2918"
                     },
                     "to": {
-                        "startLines": "17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,161",
+                        "startLines": "17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,162",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1026,1133,1234,1340,1426,1530,1652,1737,1819,1910,2003,2098,2192,2292,2385,2480,2585,2676,2767,2853,2958,3064,3167,3274,3383,3490,3660,16501",
+                        "startOffsets": "1026,1133,1234,1340,1426,1530,1652,1737,1819,1910,2003,2098,2192,2292,2385,2480,2585,2676,2767,2853,2958,3064,3167,3274,3383,3490,3660,16614",
                         "endColumns": "106,100,105,85,103,121,84,81,90,92,94,93,99,92,94,104,90,90,85,104,105,102,106,108,106,169,96,86",
-                        "endOffsets": "1128,1229,1335,1421,1525,1647,1732,1814,1905,1998,2093,2187,2287,2380,2475,2580,2671,2762,2848,2953,3059,3162,3269,3378,3485,3655,3752,16583"
+                        "endOffsets": "1128,1229,1335,1421,1525,1647,1732,1814,1905,1998,2093,2187,2287,2380,2475,2580,2671,2762,2848,2953,3059,3162,3269,3378,3485,3655,3752,16696"
                     }
                 },
                 {
@@ -125,6 +125,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\9cd854a1a75512138130e21d274adba6\\jetified-push-5.3.0.304\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "80",
+                        "endOffsets": "131"
+                    },
+                    "to": {
+                        "startLines": "152",
+                        "startColumns": "4",
+                        "startOffsets": "15630",
+                        "endColumns": "80",
+                        "endOffsets": "15706"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\89a0df44bcec2ea00312b402fc8cf2b1\\core-1.5.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2",
@@ -134,11 +151,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "162",
+                        "startLines": "163",
                         "startColumns": "4",
-                        "startOffsets": "16588",
+                        "startOffsets": "16701",
                         "endColumns": "100",
-                        "endOffsets": "16684"
+                        "endOffsets": "16797"
                     }
                 },
                 {

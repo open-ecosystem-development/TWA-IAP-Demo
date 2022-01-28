@@ -29,6 +29,10 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.browser.customtabs.CustomTabColorSchemeParams;
+import androidx.browser.customtabs.CustomTabsIntent;
+import androidx.core.content.ContextCompat;
+
 import com.huawei.agconnect.applinking.AGConnectAppLinking;
 import com.huawei.hms.iap.Iap;
 import com.huawei.hms.iap.IapClient;
@@ -71,7 +75,8 @@ public class ConsumptionActivity extends Activity {
 
     // The product ID array of products to be purchased.
 //    private static final String[] CONSUMABLES = new String[]{"CProduct01", "CProduct02"};
-    private static final String[] CONSUMABLES = new String[]{"consumables001"};
+    private static final String[] CONSUMABLES = new String[]{"testConsumable1", "testConsumable2",
+    "testConsumable3","testConsumable4"};
 
     // The Adapter for consumableProductsListview.
     private ProductListAdapter adapter;
@@ -301,21 +306,49 @@ public class ConsumptionActivity extends Activity {
                 return;
             }
             // Parses payment result data.
+            String url="";
+
             PurchaseResultInfo purchaseResultInfo = Iap.getIapClient(this).parsePurchaseResultInfoFromIntent(data);
             switch(purchaseResultInfo.getReturnCode()) {
                 case OrderStatusCode.ORDER_STATE_CANCEL:
                     Toast.makeText(this, "Order has been canceled!", Toast.LENGTH_SHORT).show();
+                    url = "https://pictroom.com/purchase/failed";
                     break;
                 case OrderStatusCode.ORDER_STATE_FAILED:
+                    Toast.makeText(this, "Order has failed!", Toast.LENGTH_SHORT).show();
+                    url = "https://pictroom.com/purchase/failed";
+                    break;
                 case OrderStatusCode.ORDER_PRODUCT_OWNED:
-                    queryPurchases(null);
+                    //queryPurchases(null);
+                    url = "https://bing.com";
                     break;
                 case OrderStatusCode.ORDER_STATE_SUCCESS:
                     deliverProduct(purchaseResultInfo.getInAppPurchaseData(), purchaseResultInfo.getInAppDataSignature());
+                    url = "https://pictroom.com/purchase/success";
                     break;
                 default:
                     break;
             }
+
+            CustomTabColorSchemeParams params = new CustomTabColorSchemeParams.Builder()
+                    .setNavigationBarColor(ContextCompat.getColor(this,R.color.colorNav))
+                    .setToolbarColor(ContextCompat.getColor(this,R.color.colorPrimary))
+                    .setSecondaryToolbarColor(ContextCompat.getColor(this,R.color.backgroundColor))
+                    .build();
+
+            CustomTabsIntent customTabsIntent = new CustomTabsIntent.Builder()
+//                    .setColorSchemeParams(CustomTabsIntent.COLOR_SCHEME_LIGHT, params)
+                    .setDefaultColorSchemeParams(params)
+                    .build();
+            CustomTabActivityHelper.openCustomTab(
+                    this, customTabsIntent, Uri.parse(url), new WebviewFallback());
+//            Log.d("onActivityResult", "URL >> "+ url);
+//            if(url.contains("pictroom")){
+//                Intent intent = new Intent();
+//                intent.putExtra("URL", url);
+//                setResult(2, intent);
+//                finish();
+//            }
             return;
         }
     }

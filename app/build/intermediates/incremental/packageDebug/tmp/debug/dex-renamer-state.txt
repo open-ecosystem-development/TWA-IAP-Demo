@@ -1,4 +1,7 @@
-#Wed Nov 03 17:13:25 PDT 2021
-base.0=C\:\\Users\\Administrator\\Downloads\\Futurewei\\TWA IAP assetlinks test\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
+#Fri Jan 28 11:12:31 PST 2022
+base.1=C\:\\Users\\Administrator\\Downloads\\Futurewei\\TWA Account+IAP Test - pictroom\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\Administrator\\Downloads\\Futurewei\\TWA Account+IAP Test - pictroom\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
+path.0=classes.dex
