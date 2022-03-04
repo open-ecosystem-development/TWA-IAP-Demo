@@ -1,19 +1,3 @@
-/**
- * Copyright 2020. Huawei Technologies Co., Ltd. All rights reserved.
- *
- *    Licensed under the Apache License, Version 2.0 (the "License");
- *    you may not use this file except in compliance with the License.
- *    You may obtain a copy of the License at
- *
- *    http://www.apache.org/licenses/LICENSE-2.0
- *
- *    Unless required by applicable law or agreed to in writing, software
- *    distributed under the License is distributed on an "AS IS" BASIS,
- *    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- *    See the License for the specific language governing permissions and
- *    limitations under the License.
- */
-
 package com.pictroom.android;
 
 import android.app.Activity;
@@ -25,13 +9,11 @@ import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import androidx.browser.customtabs.CustomTabColorSchemeParams;
-import androidx.browser.customtabs.CustomTabsIntent;
-import androidx.core.content.ContextCompat;
 
 import com.huawei.agconnect.applinking.AGConnectAppLinking;
 import com.huawei.hms.iap.Iap;
@@ -58,11 +40,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Activity for Consumables.
- *
- * @since 2019/12/9
- */
 public class ConsumptionActivity extends Activity {
     private String TAG = "ConsumptionActivity";
     private TextView countTextView;
@@ -74,7 +51,6 @@ public class ConsumptionActivity extends Activity {
     private List<ProductInfo> consumableProducts = new ArrayList<ProductInfo>();
 
     // The product ID array of products to be purchased.
-//    private static final String[] CONSUMABLES = new String[]{"CProduct01", "CProduct02"};
     private static final String[] CONSUMABLES = new String[]{"testConsumable1", "testConsumable2",
     "testConsumable3","testConsumable4"};
 
@@ -89,6 +65,9 @@ public class ConsumptionActivity extends Activity {
 
     private Boolean appLinkReceived = false;
     private Boolean iapReady = false;
+
+    private LinearLayout itemLayout;
+    private ProgressBar progressBar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -106,8 +85,8 @@ public class ConsumptionActivity extends Activity {
      * Initialize the UI.
      */
     private void initView() {
-        findViewById(R.id.progressBar).setVisibility(View.VISIBLE);
-        findViewById(R.id.content).setVisibility(View.GONE);
+        progressBar = findViewById(R.id.progressBar);
+        itemLayout = findViewById(R.id.content);
         countTextView = (TextView) findViewById(R.id.gems_count);
         countTextView.setText(String.valueOf(DeliveryUtils.getCountOfGems(this)));
         consumableProductsListview = (ListView) findViewById(R.id.consumable_product_list1);
@@ -117,15 +96,6 @@ public class ConsumptionActivity extends Activity {
 
             }
         });
-//        purchaseHisBtn = (Button) findViewById(R.id.enter_purchase_his);
-//        purchaseHisBtn.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Intent intent = new Intent(com.pictroom.android.ConsumptionActivity.this, PurchaseHistoryActivity.class);
-//                startActivity(intent);
-//            }
-//        });
-
         queryProducts();
     }
 
@@ -163,8 +133,8 @@ public class ConsumptionActivity extends Activity {
      * Show products on the page.
      */
     private void showProducts() {
-        findViewById(R.id.progressBar).setVisibility(View.GONE);
-        findViewById(R.id.content).setVisibility(View.VISIBLE);
+//        findViewById(R.id.progressBar).setVisibility(View.GONE);
+//        findViewById(R.id.content).setVisibility(View.VISIBLE);
         adapter = new ProductListAdapter(com.pictroom.android.ConsumptionActivity.this, consumableProducts);
         consumableProductsListview.setAdapter(adapter);
         adapter.notifyDataSetChanged();
@@ -214,6 +184,7 @@ public class ConsumptionActivity extends Activity {
      */
     private void deliverProduct(final String inAppPurchaseDataStr, final String inAppPurchaseDataSignature) {
         // Check whether the signature of the purchase data is valid.
+        Log.d(TAG, "deliverProduct");
         if (CipherUtil.doCheck(inAppPurchaseDataStr, inAppPurchaseDataSignature, CipherUtil.getPublicKey())) {
             try {
                 InAppPurchaseData inAppPurchaseDataBean = new InAppPurchaseData(inAppPurchaseDataStr);
@@ -320,8 +291,10 @@ public class ConsumptionActivity extends Activity {
                     break;
                 case OrderStatusCode.ORDER_PRODUCT_OWNED:
                     //queryPurchases(null);
-                    url = "https://bing.com";
-                    break;
+                    url = "https://pictroom.com/purchase/owned";
+                    Toast.makeText(this, "Product already owned", Toast.LENGTH_LONG).show();
+                    return;
+//                    break;
                 case OrderStatusCode.ORDER_STATE_SUCCESS:
                     deliverProduct(purchaseResultInfo.getInAppPurchaseData(), purchaseResultInfo.getInAppDataSignature());
                     url = "https://pictroom.com/purchase/success";
@@ -330,25 +303,10 @@ public class ConsumptionActivity extends Activity {
                     break;
             }
 
-            CustomTabColorSchemeParams params = new CustomTabColorSchemeParams.Builder()
-                    .setNavigationBarColor(ContextCompat.getColor(this,R.color.colorNav))
-                    .setToolbarColor(ContextCompat.getColor(this,R.color.colorPrimary))
-                    .setSecondaryToolbarColor(ContextCompat.getColor(this,R.color.backgroundColor))
-                    .build();
+            Intent intent = new Intent(this, LauncherActivity.class);
+            intent.setData(Uri.parse(url));
+            startActivity(intent);
 
-            CustomTabsIntent customTabsIntent = new CustomTabsIntent.Builder()
-//                    .setColorSchemeParams(CustomTabsIntent.COLOR_SCHEME_LIGHT, params)
-                    .setDefaultColorSchemeParams(params)
-                    .build();
-            CustomTabActivityHelper.openCustomTab(
-                    this, customTabsIntent, Uri.parse(url), new WebviewFallback());
-//            Log.d("onActivityResult", "URL >> "+ url);
-//            if(url.contains("pictroom")){
-//                Intent intent = new Intent();
-//                intent.putExtra("URL", url);
-//                setResult(2, intent);
-//                finish();
-//            }
             return;
         }
     }
@@ -364,9 +322,6 @@ public class ConsumptionActivity extends Activity {
                             if (resolvedLinkData != null) {
                                 deepLink = resolvedLinkData.getDeepLink();
                             }
-
-//                            TextView textView = findViewById(R.id.deepLink);
-//                            textView.setText(deepLink != null ? deepLink.toString() : "");
 
                             if (deepLink != null) {
                                 String path = deepLink.getLastPathSegment();

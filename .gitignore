@@ -27,7 +27,7 @@ output.json
 google-services.json
 
 # AppGallery Services
-agconnect-services.json
+app/agconnect-services.json
 
 
 
