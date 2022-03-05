@@ -32,8 +32,10 @@ public class DeliveryUtils {
     private static Map<String, Integer> getNumOfGems() {
         Map<String, Integer> map = new HashMap<String, Integer>();
 
-        map.put("CProduct01", 5);
-        map.put("CProduct02", 10);
+        map.put("testConsumable1", 1);
+        map.put("testConsumable2", 2);
+        map.put("testConsumable3", 5);
+        map.put("testConsumable4", 10);
 
         return map;
     }

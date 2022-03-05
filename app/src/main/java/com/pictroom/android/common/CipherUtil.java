@@ -25,7 +25,7 @@ public class CipherUtil {
     private static final String SIGN_ALGORITHMS = "SHA256WithRSA";
 
     // The Iap public key of this App.
-    private static final String PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhq5dfS3JJkugYdnasvQyDqwx9RKwySDmCLItVsSPcSAaxtioas2Fobdba8CleeE4vBRRqxHEUVnpa+JBo9xnzgEx0yX4Mo++wi7LERCO4WJLsuDgogPjPVFBw8W0VZgENNkjI7MiuCQwAXhCEurE4wxUudbKLdy15dphNba0BMQy6U3VJSmfLQOqoAFI5mz2TwzFuoCDVY3LlAzWZMtl/baNfHsZa4XKT7C3wSnrvXL+AoBUWfRtt3+JBtLDchhbcJT8KHa/7lXaXTx0yZIUq9J3gLKbPP+Z8EPxT0N/XLiXsWiDr+iKqZjpatys0TIgoWn547+1V2yneWxPRxc+0QIDAQAB";
+    private static final String PUBLIC_KEY = "MIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAvGcZWI8yDLkeCSpETPuhaVbhrMOBVUOs9Wx+lbGuPsewQwmPjf6izaLIce2wJ7ZEkQ02o+PORePaPeVMQy8TDHi73Q4akHBN1HQk1em+AVvuGGdFredy3SaiLzbL91qmfyYd/Eb/uwOcEB1XyEsI76oFlDmLahARtnyKMn1pQBhp+H561fIgQFE/FzaYdeuKpdg6NnKBsAXVrC/DzksDT38tJM2q4u0BLl3DFojzz4eK35rKRgoMHMrFvII1oM8bpK4B5OZVaXRKJ593qM1WIdbqibvFI3vq/PJyZzTCLK0xd0wSh28l/cvylJ3rFxfo7OqXrBjl76Evn5pmWhR1sI6SgcqUCR06ZhBh49fWAi7JKnzLp1T6S5e9b9GsTHD4Kd0iLwRSE5zfr4wcvi3GGSDnfE5fx10NGtUqIyxJILZGG7gA6fwyVDjidABtMMsuLNU77wbzJdzCGzDXeIPfiIiBX1pOfJy9x982DePc5E0ux8i5p2SBpH7JZxkMQYGbAgMBAAE=";
 
     /**
      * The method to check the signature for the data returned from the interface.
