@@ -88,7 +88,6 @@
             <meta-data android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
                 android:value="@string/providerAuthority"/>
 
-            <meta-data android:name="android.app.shortcuts" android:resource="@xml/shortcuts" />
 
             <meta-data android:name="android.support.customtabs.trusted.FALLBACK_STRATEGY"
                 android:value="@string/fallbackType" />
