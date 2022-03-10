@@ -8,10 +8,7 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.Button;
-import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -26,13 +23,13 @@ import com.huawei.hms.iap.entity.ProductInfoResult;
 import com.huawei.hms.iap.entity.PurchaseIntentResult;
 import com.huawei.hms.iap.entity.PurchaseResultInfo;
 import com.huawei.hms.support.api.client.Status;
-import com.pictroom.android.adapter.ProductListAdapter;
-import com.pictroom.android.common.CipherUtil;
-import com.pictroom.android.common.Constants;
-import com.pictroom.android.common.DeliveryUtils;
-import com.pictroom.android.common.ExceptionHandle;
-import com.pictroom.android.common.IapApiCallback;
-import com.pictroom.android.common.IapRequestHelper;
+import com.pictroom.android.iap.ProductListAdapter;
+import com.pictroom.android.iap.CipherUtil;
+import com.pictroom.android.iap.Constants;
+import com.pictroom.android.iap.DeliveryUtils;
+import com.pictroom.android.iap.ExceptionHandle;
+import com.pictroom.android.iap.IapApiCallback;
+import com.pictroom.android.iap.IapRequestHelper;
 
 import org.json.JSONException;
 
@@ -57,17 +54,11 @@ public class ConsumptionActivity extends Activity {
     // The Adapter for consumableProductsListview.
     private ProductListAdapter adapter;
 
-    // Click this button to start the PurchaseHistoryActivity which displays information about purchased products.
-    private Button purchaseHisBtn;
-
     // Use this IapClient instance to call the APIs of IAP.
     private IapClient mClient;
 
     private Boolean appLinkReceived = false;
     private Boolean iapReady = false;
-
-    private LinearLayout itemLayout;
-    private ProgressBar progressBar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -85,8 +76,6 @@ public class ConsumptionActivity extends Activity {
      * Initialize the UI.
      */
     private void initView() {
-        progressBar = findViewById(R.id.progressBar);
-        itemLayout = findViewById(R.id.content);
         countTextView = (TextView) findViewById(R.id.gems_count);
         countTextView.setText(String.valueOf(DeliveryUtils.getCountOfGems(this)));
         consumableProductsListview = (ListView) findViewById(R.id.consumable_product_list1);
@@ -133,8 +122,6 @@ public class ConsumptionActivity extends Activity {
      * Show products on the page.
      */
     private void showProducts() {
-//        findViewById(R.id.progressBar).setVisibility(View.GONE);
-//        findViewById(R.id.content).setVisibility(View.VISIBLE);
         adapter = new ProductListAdapter(com.pictroom.android.ConsumptionActivity.this, consumableProducts);
         consumableProductsListview.setAdapter(adapter);
         adapter.notifyDataSetChanged();
@@ -303,7 +290,7 @@ public class ConsumptionActivity extends Activity {
                     break;
             }
 
-            Intent intent = new Intent(this, LauncherActivity.class);
+            Intent intent = new Intent(this, MainActivity.class);
             intent.setData(Uri.parse(url));
             startActivity(intent);
 

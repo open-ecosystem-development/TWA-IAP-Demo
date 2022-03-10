@@ -1,4 +1,4 @@
-package com.pictroom.android.common;
+package com.pictroom.android.iap;
 
 import android.text.TextUtils;
 import android.util.Base64;
@@ -13,11 +13,6 @@ import java.security.SignatureException;
 import java.security.spec.InvalidKeySpecException;
 import java.security.spec.X509EncodedKeySpec;
 
-/**
- * Signature related tools.
- *
- * @since 2019/12/9
- */
 public class CipherUtil {
     private static final String TAG = "CipherUtil";
 

@@ -1,10 +1,5 @@
-package com.pictroom.android.common;
+package com.pictroom.android.iap;
 
-/**
- * Constants Class.
- *
- * @since 2019/12/9
- */
 public class Constants {
 
     /** RequestCode for pull up the pmsPay page */

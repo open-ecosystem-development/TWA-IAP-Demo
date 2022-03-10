@@ -9,9 +9,9 @@ plugins {
 def twaManifest = [
     applicationId: 'com.pictroom.android',
     hostName: 'pictroom.com', // The domain being opened in the TWA.
-    launchUrl: '/?pwa=true', // The start path for the TWA. Must be relative to the domain.
-    name: 'TWA Test', // The application name.
-    launcherName: 'TWA Test', // The name shown on the Android Launcher.
+    launchUrl: '/product/?pwa=true', // The start path for the TWA. Must be relative to the domain.
+    name: 'TWA IAP Demo', // The application name.
+    launcherName: 'TWA IAP Demo', // The name shown on the Android Launcher.
     themeColor: '#3F51B5', // The color used for the status bar.
     navigationColor: '#3F51B5', // The color used for the navigation bar.
     navigationColorDark: '#3F51B5', // The color used for the dark navbar.
@@ -216,5 +216,6 @@ dependencies {
     implementation "com.google.code.gson:gson:2.8.6"
     implementation 'com.huawei.hms:hwid:5.2.0.300'
     implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.google.android.gms:play-services-base:18.0.1'
 
 }

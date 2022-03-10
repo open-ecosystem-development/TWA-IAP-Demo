@@ -1,4 +1,4 @@
-package com.pictroom.android.adapter;
+package com.pictroom.android.iap;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -14,11 +14,6 @@ import com.pictroom.android.R;
 
 import java.util.List;
 
-/**
- * Adapter for product list.
- *
- * @since 2019/12/9
- */
 public class ProductListAdapter extends BaseAdapter {
 
     // Context instance.

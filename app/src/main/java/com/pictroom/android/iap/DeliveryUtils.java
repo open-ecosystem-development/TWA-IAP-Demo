@@ -1,4 +1,4 @@
-package com.pictroom.android.common;
+package com.pictroom.android.iap;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -9,11 +9,6 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-/**
- * An util class containing methods to simulate shipping.
- *
- * @since 2019/12/9
- */
 public class DeliveryUtils {
     // Key value to store the set that stores delivered purchaseToken.
     private static final String PURCHASETOKEN_KEY = "purchasetokenSet";

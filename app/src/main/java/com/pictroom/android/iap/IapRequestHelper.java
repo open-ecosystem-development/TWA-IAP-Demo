@@ -1,4 +1,4 @@
-package com.pictroom.android.common;
+package com.pictroom.android.iap;
 
 import android.app.Activity;
 import android.content.IntentSender;
@@ -26,11 +26,6 @@ import com.huawei.hms.support.api.client.Status;
 
 import java.util.List;
 
-/**
- * The tool class of Iap interface.
- *
- * @since 2019/12/9
- */
 public class IapRequestHelper {
     private final static String TAG = "IapRequestHelper";
 

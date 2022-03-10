@@ -1,4 +1,4 @@
-package com.pictroom.android.common;
+package com.pictroom.android.iap;
 
 import android.app.Activity;
 import android.util.Log;
@@ -9,11 +9,6 @@ import com.huawei.hms.iap.entity.OrderStatusCode;
 
 import static android.content.ContentValues.TAG;
 
-/**
- *  Handles the exception returned from the iap api.
- *
- * @since 2019/12/9
- */
 public class ExceptionHandle {
     /**
      * The exception is solved.

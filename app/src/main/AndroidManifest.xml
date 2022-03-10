@@ -3,7 +3,6 @@
     package="com.pictroom.android">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
         android:name="Application"
@@ -44,9 +43,9 @@
                 android:name="android.support.customtabs.trusted.MANAGE_SPACE_URL"
                 android:value="@string/launchUrl" />
             </activity>
-        
 
-        <activity android:name="LauncherActivity"
+
+        <activity android:name="MainActivity"
             android:alwaysRetainTaskState="true"
             android:label="@string/launcherName"
             android:exported="true">
@@ -151,20 +150,6 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/filepaths" />
         </provider>
-
-        <service
-            android:name=".DelegationService"
-            android:enabled="@bool/enableNotification"
-            android:exported="@bool/enableNotification">
-
-            
-
-            <intent-filter>
-                <action android:name="android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE"/>
-                <category android:name="android.intent.category.DEFAULT"/>
-            </intent-filter>
-        </service>
-
 
         <activity android:name=
         "com.google.androidbrowserhelper.locationdelegation.PermissionRequestActivity"/>

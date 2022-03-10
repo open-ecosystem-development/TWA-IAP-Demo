@@ -1,10 +1,5 @@
-package com.pictroom.android.common;
+package com.pictroom.android.iap;
 
-/**
- * Used to callback the result from iap api.
- *
- * @since 2019/12/9
- */
 public interface IapApiCallback<T> {
 
     /**
