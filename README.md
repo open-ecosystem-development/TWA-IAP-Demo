@@ -6,13 +6,13 @@ This is made by possible by using App Linking to redirect from the web content t
 
 ## References
 
-**Huawei IAP**
+### Huawei IAP
 https://developer.huawei.com/consumer/en/hms/huawei-iap/
-**Project Base - Huawei IAP Demo**
+### Project Base - Huawei IAP Demo
 https://github.com/HMS-Core/hms-iap-clientdemo-android-studio
-**Huawei App Linking**
+### Huawei App Linking
 https://developer.huawei.com/consumer/en/agconnect/App-linking
-**Trusted Web Activities (Android Browser Helper)**
+### Trusted Web Activities (Android Browser Helper)
 https://github.com/GoogleChrome/android-browser-helper
 
 ## Demo Flow
