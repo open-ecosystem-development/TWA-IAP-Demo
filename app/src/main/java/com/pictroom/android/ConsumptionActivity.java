@@ -270,21 +270,21 @@ public class ConsumptionActivity extends Activity {
             switch(purchaseResultInfo.getReturnCode()) {
                 case OrderStatusCode.ORDER_STATE_CANCEL:
                     Toast.makeText(this, "Order has been canceled!", Toast.LENGTH_SHORT).show();
-                    url = "https://pictroom.com/purchase/failed";
+                    url = "https://pictroom.com/product/purchase/failed";
                     break;
                 case OrderStatusCode.ORDER_STATE_FAILED:
                     Toast.makeText(this, "Order has failed!", Toast.LENGTH_SHORT).show();
-                    url = "https://pictroom.com/purchase/failed";
+                    url = "https://pictroom.com/product/purchase/failed";
                     break;
                 case OrderStatusCode.ORDER_PRODUCT_OWNED:
                     //queryPurchases(null);
-                    url = "https://pictroom.com/purchase/owned";
+                    url = "https://pictroom.com/product/owned";
                     Toast.makeText(this, "Product already owned", Toast.LENGTH_LONG).show();
                     return;
 //                    break;
                 case OrderStatusCode.ORDER_STATE_SUCCESS:
                     deliverProduct(purchaseResultInfo.getInAppPurchaseData(), purchaseResultInfo.getInAppDataSignature());
-                    url = "https://pictroom.com/purchase/success";
+                    url = "https://pictroom.com/product/purchase/success";
                     break;
                 default:
                     break;
