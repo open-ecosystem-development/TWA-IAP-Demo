@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Setup](#setup)
-- [Expected Result](#expected-result)
+- [Demo Flow](#demo-flow)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Questions](#questions)
@@ -33,7 +33,7 @@ A Huawei Developer Account is needed to access and configure Huawei IAP. You wil
 6. Replace  **PUBLIC_KEY**  in the  **CipherUtil**  class with the public key of your app. For details about how to obtain the public key, please refer to  [Querying IAP Information](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/query-payment-info-0000001050166299?ha_source=hms1).
 7. Replace the products in this demo with your products.
 
-## Expected Result
+## Demo Flow
 1. MainActivity opens loads demo website via TWA.
 2. Purchase button on demo website is a Huawei App Link which redirects to ConsumptionActivity from browser.
 3. ConsumptionActivity automatically loads Huawei IAP.
