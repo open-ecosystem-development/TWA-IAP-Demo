@@ -98,16 +98,6 @@ public class MainActivity extends Activity {
 
         mMetadata = LauncherActivityMetadata.parse(this);
 
-        if (splashScreenNeeded()) {
-            mSplashScreenStrategy = new PwaWrapperSplashScreenStrategy(this,
-                    mMetadata.splashImageDrawableId,
-                    getColorCompat(mMetadata.splashScreenBackgroundColorId),
-                    getSplashImageScaleType(),
-                    getSplashImageTransformationMatrix(),
-                    mMetadata.splashScreenFadeOutDurationMillis,
-                    mMetadata.fileProviderAuthority);
-        }
-
         if (shouldLaunchImmediately()) {
             launchTwa();
         }
@@ -196,17 +186,6 @@ public class MainActivity extends Activity {
         return new TwaLauncher(this);
     }
 
-    private boolean splashScreenNeeded() {
-        // Splash screen was not requested.
-        if (mMetadata.splashImageDrawableId == 0) return false;
-
-        // If this activity isn't task root, then a TWA is already running in this task. This can
-        // happen if a VIEW intent (without Intent.FLAG_ACTIVITY_NEW_TASK) is being handled after
-        // launching a TWA. In that case we're only passing a new intent into existing TWA, and
-        // don't show the splash screen.
-        return isTaskRoot();
-    }
-
     private void addShareDataIfPresent(TrustedWebActivityIntentBuilder twaBuilder) {
         ShareData shareData = SharingUtils.retrieveShareDataFromIntent(getIntent());
         if (shareData == null) {
@@ -223,27 +202,7 @@ public class MainActivity extends Activity {
             Log.d(TAG, "Failed to parse share target json: " + e.toString());
         }
     }
-
-    /**
-     * Override to set a custom scale type for the image displayed on a splash screen.
-     * See {@link ImageView.ScaleType}.
-     */
-    @NonNull
-    protected ImageView.ScaleType getSplashImageScaleType() {
-        return ImageView.ScaleType.CENTER;
-    }
-
-    /**
-     * Override to set a transformation matrix for the image displayed on a splash screen.
-     * See {@link ImageView#setImageMatrix}.
-     * Has any effect only if {@link #getSplashImageScaleType()} returns {@link
-     * ImageView.ScaleType#MATRIX}.
-     */
-    @Nullable
-    protected Matrix getSplashImageTransformationMatrix() {
-        return null;
-    }
-
+    
     private int getColorCompat(int splashScreenBackgroundColorId) {
         return ContextCompat.getColor(this, splashScreenBackgroundColorId);
     }
