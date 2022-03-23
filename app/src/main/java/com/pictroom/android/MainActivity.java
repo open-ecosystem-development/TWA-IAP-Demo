@@ -202,7 +202,7 @@ public class MainActivity extends Activity {
             Log.d(TAG, "Failed to parse share target json: " + e.toString());
         }
     }
-    
+
     private int getColorCompat(int splashScreenBackgroundColorId) {
         return ContextCompat.getColor(this, splashScreenBackgroundColorId);
     }
