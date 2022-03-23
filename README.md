@@ -39,7 +39,7 @@ A Huawei Developer Account is needed to access and configure Huawei IAP. You wil
 3. ConsumptionActivity automatically loads Huawei IAP.
 4. IAP result redirects back to demo website via TWA for IAP success or fail.
 
-https://github.com/bryantvu/HMS-Ecosystem---TWA-IAP-Demo/blob/master/demo_video.m4v
+https://github.com/bryantvu/HMS-Ecosystem---TWA-IAP-Demo/blob/master/demo_video.mp4
 
 ## License
 This Android sample code is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
