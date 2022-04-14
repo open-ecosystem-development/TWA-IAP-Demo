@@ -30,6 +30,10 @@ A Huawei Developer Account is needed to access and configure Huawei IAP and App 
 
 2.  Create and configure your products in AppGallery Connect. For details, please refer to  [Configuring Your Products](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/config-product-0000001050033076?ha_source=hms1).
 3. (Optional) [Create a link](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-applinking-createlinks-byagc-0000001058988077) for App Linking in AppGallery Connect or *continue using the link already set in the demo*. You will need to configure your **AndroidManifest.xml**, so that intent filter values for host and scheme match with those on your link. Your link will not redirect to the IAP process unless this is set properly.
+
+![277971792_5192230950826954_6569417356395000976_n](https://user-images.githubusercontent.com/40374800/163491077-acfab929-d63c-49ed-b3d3-6d60b4e3a73e.png)
+![2022-04-14 15_46_48-278020315_311775591070023_9017516905437510887_n png - IrfanView](https://user-images.githubusercontent.com/40374800/163491092-35fc1283-ed76-43a7-9187-69727c2c434d.png)
+
 4.  Download the  **agconnect-services.json**  file of your app from AppGallery Connect, and add the file to the app-level directory of the demo.
 5. Add the signing certificate and add configurations to the app-level  **build.gradle**  file.
 6. Change the package name of the Android project to your desired app package name.
@@ -53,6 +57,7 @@ If setting up a web host is too difficult, you can alternatively create a localh
 5. Run the localhost `./node_modules/http-server/bin/http-server`
 6. Change  the values of `twaManifest.hostName` to your http-server localhost IP & port (for example `http://127.0.0.1:8080`) and `twaManifest.launchUrl` to '/' inside `app/build.gradle` (line 24, 25) before building your project.
 
+![2022-04-14 15_45_26-TWA IAP_HMS Ecosystem - Copy – build gradle (_app) Administrator](https://user-images.githubusercontent.com/40374800/163491001-eea2a73b-05e2-4954-924d-024203e718eb.png)
 
 ## Demo Flow
 1. MainActivity opens loads demo website via TWA.
