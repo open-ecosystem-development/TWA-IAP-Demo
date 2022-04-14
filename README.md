@@ -51,7 +51,7 @@ If setting up a web host is too difficult, you can alternatively create a localh
        </a>
 
 5. Run the localhost `./node_modules/http-server/bin/http-server`
-6. Change  the value of `twaManifest.hostName` inside `app/build.gradle` (line 24) to your http-server localhost IP & port, for example `http://127.0.0.1:8080` before building your project.
+6. Change  the values of `twaManifest.hostName` to your http-server localhost IP & port (for example `http://127.0.0.1:8080`) and `twaManifest.launchUrl` to '/' inside `app/build.gradle` (line 24, 25) before building your project.
 
 
 ## Demo Flow
