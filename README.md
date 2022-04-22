@@ -53,6 +53,27 @@ If setting up a web host is too difficult, you can alternatively create a localh
 5. Run the localhost `./node_modules/http-server/bin/http-server`
 6. Change  the values of `twaManifest.hostName` to your http-server localhost IP & port (for example `http://127.0.0.1:8080`) and `twaManifest.launchUrl` to '/' inside `app/build.gradle` (line 24, 25) before building your project.
 
+### Complete TWA Setup
+Please follow this article by [Sven Budak](https://svenbudak.medium.com/) to set up TWA.
+
+[https://svenbudak.medium.com/this-twa-stuff-rocks-finally-i-got-my-pwa-on-google-play-store-b92fe8dae31f](https://svenbudak.medium.com/this-twa-stuff-rocks-finally-i-got-my-pwa-on-google-play-store-b92fe8dae31f)
+
+You basically need to create a directory and file `.well-known/assetlinks.json` in your web host root with the following information:
+
+```
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.app",
+    "sha256_cert_fingerprints": [
+      "hash_of_app_certificate"
+    ]
+  }
+}]
+```
+
+Please refer to the tutorial to get the `sha256_cert_fingerprints` value. Once you have set up your host and built a release APK, the URL bar inside your TWA APK will disappear.
 
 ## Demo Flow
 1. MainActivity opens loads demo website via TWA.
